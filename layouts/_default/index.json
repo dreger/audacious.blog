@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "{{ .Site.Title }}",
+    "home_page_url": "{{ .Site.BaseURL }}",
+    "feed_url": "{{ .Permalink }}",
+    "icon" : "{{ .Site.BaseURL }}/apple-touch-icon.png",
+    "favicon" : "{{ .Site.BaseURL }}/favicon.png",
+    "author" : {
+      "url" : "{{ .Site.Author.url }}",
+      "name" : "{{ .Site.Author.name }}"
+    },
+    "items": [
+    {{ range $i, $element := first 25 (where $.Site.RegularPages "Section" "in" "notes links") }}
+        {{ if $i }}, {{ end }}
+            {
+              {{ if eq .Section "links" }} 
+                "title": "{{ .Title }}",
+                "external_url": "{{ .Params.link }}",
+                {{ else }}
+                "title": "{{ $.Param "icon" | markdownify  }} {{ .Title }}",
+                {{ end }} 
+          "url": "{{ .Permalink }}",
+                "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
+                "id": "{{ .Permalink }}",
+                "author": {
+                  "name" : "{{ .Site.Author.name }}"
+                },
+                "content_html": {{ (print .Content (partial "rss-link-footer.html" .)) | jsonify }}
+            }
+        {{ end }}
+    ]
+}

@@ -1,0 +1,43 @@
+baseURL = "https://dreger.me/"
+languageCode = "en-us"
+titleCaseStyle = "AP"
+
+title = "Audacious by KQD"
+uglyurls = false
+publishDir = "docs"
+[permalinks]
+	notes = "/notes/:filename"
+	links = "/links/:filename"
+	pages = "/:filename"
+
+[sitemap]
+  changefreq = 'monthly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[author]
+  name = 'K.Q. Dreger'
+  url = 'https://twitter.com/dreger'
+
+[params]
+  icon = '&#9650;&#65038;'
+
+
+[mediaTypes]
+  [mediaTypes."application/xml"]
+    suffixes = ["xml"]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
+
+[outputFormats.Json]
+  mediaType = "application/json"
+  baseName = "feeds/main"
+  isPlainText = true
+
+[outputFormats.Xml]
+  mediaType = "application/xml"
+  baseName = "feeds/main"
+  isPlainText = true
+
+[outputs]
+  home = [ "HTML", "Xml", "Json" ]

@@ -1,0 +1,34 @@
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+
+    
+
+  	{{ if in "notes pages" .Section }}
+    <h1 class="post__title">{{ .Title }}</h1>
+    {{ else }}
+    <h2><a href='{{ .Params.link }}'>{{ .Title }}</a></h2>
+    {{ end }}
+
+
+    <!-- {{ .Summary }} -->
+
+  	{{ .Content }}
+
+    {{ if .PublishDate }}
+      <p><a class="post__meta" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .PublishDate.Format "Monday, 2 January 2006" }}</a></p>
+
+      <hr>
+  
+      {{ if .PrevPage }}<p><strong>Older</strong><br><a href='{{ strings.TrimSuffix "/" .PrevPage.Permalink }}'>{{.PrevPage.Title}}</a></p>{{ end }}
+
+      {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title}}</a></div>{{ end }}
+    {{ end }}
+
+    <hr>
+
+    {{ partial "navigation.html" . }}
+
+{{ end }}

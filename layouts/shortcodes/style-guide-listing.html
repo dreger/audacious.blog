@@ -1,0 +1,7 @@
+<div class="style-guide">
+{{ range $.Site.Data.StyleGuideTerms }}
+  {{ range . }}
+    <p><strong><span class="term">{{ .t }}</span></strong>. <span class="definition">{{ string .d | markdownify }}</span></p>
+  {{ end }}
+{{ end }}
+</div>

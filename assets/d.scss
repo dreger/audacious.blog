@@ -128,13 +128,14 @@ main {
   display: block; 
   background-position: left top; 
   background-image: url(/images/logo.svg);
-  width: 180px; 
+  width: 8rem; 
+  padding: .5rem 0; 
   height: 30px; 
   border-radius: 8px; 
   margin: 0; 
   border: 0; 
   &:hover {
-    background-color: var(--faded); 
+    opacity: .5
   }
 }
 

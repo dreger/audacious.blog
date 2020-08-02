@@ -32,16 +32,35 @@ Dr. Christopher B. Durr and I wanted to record a review of our Fitbit HRs, but w
   <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/7792012/css/fonts.css" />
   
   
-  <link rel="stylesheet" href="http://localhost:1313/d.min.06c8745d7967367d4a7a762e392dd9f9f71b3877c779990f2ef9bdd4b55efccb.css">
+  <link rel="stylesheet" href="http://localhost:1313/d.min.940bc34fd917470b2f6439549bfbdf13a5d80347bc413b78b69253df3eb4e081.css">
 
   <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101218772);</script>
   <script async src="//static.getclicky.com/js"></script>
 </head>
 <body>
   <main>
-    <a href="/" class="logo">
-    </a>
-    
+    <header class="header">
+      <a href="/" class="logo"></a>
+      <div class="header__menu">•••</div>
+    </header>
+    <nav class="navigation">
+
+<p>Written by K.Q. Dreger.</p>
+
+
+<ul>
+	<li><a href='/masthead'>Masthead</a></li>
+	<li><a href='/style-guide'>Style Guide</a></li>
+	<li>Follow via <a href="https://twitter.com/audaciousblog">Twitter</a>, <a href="/feeds/main.xml">RSS</a>, or <a href="/feeds/main.json">JSON</a>.
+	</li>
+
+</ul>
+
+<p>Notes and links on people, product, and punctuation. Published from Ohio. Made on a Mac. Updated multiple times a month, most of the time.</p>
+
+
+</nav>
+
     <div class="column">
       
 
@@ -139,21 +158,15 @@ Dr. Christopher B. Durr and I wanted to record a review of our Fitbit HRs, but w
       <div><strong>Newer</strong><br><a href='http://localhost:1313/2016/jelly'>Outsource Your Googling</a></div>
     
 
-    <hr>
-
-    <ul>
-	<li><a href='/masthead'>Masthead</a></li>
-	<li><a href='/style-guide'>Style Guide</a></li>
-	<li>Follow via <a href="https://twitter.com/audaciousblog">Twitter</a>, <a href="/feeds/main.xml">RSS</a>, or <a href="/feeds/main.json">JSON</a>.
-	</li>
-
-</ul>
-
-<p>Notes and links on people, product, and punctuation. Published from Ohio. Made on a Mac. Updated multiple times a month, most of the time.</p>
-
-
 
     </div>
   </main>
+
+  <script type="text/javascript">
+    let navigationDom = document.querySelector(".navigation"); 
+    document.querySelector(".header__menu").addEventListener('click', function (event) {
+        navigationDom.classList.toggle('navigation--active'); 
+      })
+  </script>
 </body>
 </html>

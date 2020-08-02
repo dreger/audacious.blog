@@ -27,8 +27,4 @@
       {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title}}</a></div>{{ end }}
     {{ end }}
 
-    <hr>
-
-    {{ partial "navigation.html" . }}
-
 {{ end }}

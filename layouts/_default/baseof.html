@@ -43,20 +43,21 @@
 </head>
 <body>
   <main>
-    <a href="/" class="post__author">
-      <span class="post__author__image"></span>
-      <span class="post__author__byline">Audacious by KQD</span> 
-    </a>
-    <!-- <header class="header">
-      
-      <a class="header__logo" href="/">K.Q. Dreger</a>
-      <a class='{{ if hasPrefix .RelPermalink "/notes" }}active{{ end }}' href="/notes/">Blog</a>
-      <a class='{{ if eq .RelPermalink "/about/" }}active{{ end }}' href="/about/">About</a>
-      </header> -->
-    
+    <header class="header">
+      <a href="/" class="logo"></a>
+      <div class="header__menu">•••</div>
+    </header>
+    {{ partial "navigation.html" . }}
     <div class="column">
       {{ block "main" . }}{{ end }}
     </div>
   </main>
+
+  <script type="text/javascript">
+    let navigationDom = document.querySelector(".navigation"); 
+    document.querySelector(".header__menu").addEventListener('click', function (event) {
+        navigationDom.classList.toggle('navigation--active'); 
+      })
+  </script>
 </body>
 </html>

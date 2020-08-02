@@ -7,8 +7,8 @@ uglyurls = false
 publishDir = "docs"
 disableKinds = ['RSS', 'taxonomy', 'taxonomyTerm']
 [permalinks]
-	notes = "/notes/:filename"
-	links = "/links/:filename"
+	notes = "/:year/:filename"
+	links = "/:year/:filename"
 	pages = "/:filename"
 
 [sitemap]

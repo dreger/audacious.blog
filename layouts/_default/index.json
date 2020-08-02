@@ -14,10 +14,10 @@
         {{ if $i }}, {{ end }}
             {
               {{ if eq .Section "links" }} 
-                "title": "{{ .Title }}",
+                "title": "{{ .Title | title }}",
                 "external_url": "{{ .Params.link }}",
                 {{ else }}
-                "title": "{{ $.Param "icon" | markdownify  }} {{ .Title }}",
+                "title": "{{ $.Param "icon" | markdownify  }} {{ .Title | title }}",
                 {{ end }} 
           "url": "{{ .Permalink }}",
                 "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",

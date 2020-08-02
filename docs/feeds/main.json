@@ -14,6 +14,21 @@
         
             {
                
+                "title": "Medium Testing New Visual Customization",
+                "external_url": "https://blog.medium.com/a-more-expressive-medium-483e567b19ff",
+                 
+          "url": "https://audacious.blog/2020/medium-adds-themes/",
+                "date_published": "2020-08-02T15:50:01-04:00",
+                "id": "https://audacious.blog/2020/medium-adds-themes/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eLooks pretty limited right now. And half of the themes are\u0026hellip; meh? No word on custom domains, so ostensibly everything is still very much locked into their platform.\u003c/p\u003e\n\u003cp\u003eAs usual, Medium is the message.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Medium testing new visual customization\" href='https://audacious.blog/2020/medium-adds-themes'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+               
                 "title": "On Having Full RSS Feeds",
                 "external_url": "https://zacs.site/blog/maybe-a-good-idead.html",
                  
@@ -116,7 +131,7 @@
         , 
             {
               
-                "title": "▲︎ Treat pain points as debt",
+                "title": "▲︎ Treat Pain Points as Debt",
                  
           "url": "https://audacious.blog/2019/pain-snowball-method/",
                 "date_published": "2019-12-14T00:00:00+00:00",
@@ -130,7 +145,7 @@
         , 
             {
               
-                "title": "▲︎ Hierarchy of product team needs",
+                "title": "▲︎ Hierarchy of Product Team Needs",
                  
           "url": "https://audacious.blog/2019/product-team-needs/",
                 "date_published": "2019-12-10T00:00:00+00:00",
@@ -159,7 +174,7 @@
         , 
             {
                
-                "title": "Replying to Emails Like a CEO Takes the Pain out of Writing Email",
+                "title": "Replying to Emails Like a CEO Takes the Pain Out of Writing Email",
                 "external_url": "https://www.buzzfeednews.com/article/katienotopoulos/i-tried-emailing-like-your-boss",
                  
           "url": "https://audacious.blog/2019/email-like-a-ceo/",
@@ -189,7 +204,7 @@
         , 
             {
                
-                "title": "‘What I Learned Trying To Secure Congressional Campaigns’",
+                "title": "‘What I Learned Trying to Secure Congressional Campaigns’",
                 "external_url": "https://idlewords.com/2019/05/what_i_learned_trying_to_secure_congressional_campaigns.htm",
                  
           "url": "https://audacious.blog/2019/ceglowski-securing-congressional-campaigns/",
@@ -324,7 +339,7 @@
         , 
             {
                
-                "title": "‘Letter Boxed’ by The New York Times",
+                "title": "‘Letter Boxed’ by the New York Times",
                 "external_url": "https://www.polygon.com/2019/2/1/18205854/new-york-times-crossword-letter-boxed-puzzle-game",
                  
           "url": "https://audacious.blog/2019/nyt-letter-boxed/",
@@ -364,21 +379,6 @@
                   "name" : "K.Q. Dreger"
                 },
                 "content_html": "\u003cp\u003eKlint Finley, \u003cem\u003eWired\u003c/em\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eGoogle says the proposal is just, well, a proposal. \u0026ldquo;These changes are in the design process,\u0026rdquo; a Google spokesperson said in a statement. The company is \u0026ldquo;working with extension developers to make sure their extensions continue to work,\u0026rdquo; the spokesperson said.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eOstensibly, the changes are designed to improve the security and performance of Chrome and Chromium. For example, Chrome extensions now can access your browsing history. That means a bad actor could offer an ad blocker that spies on you.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eGoogle is proposing to cut off extensions\u0026rsquo; access to browsing history and instead offer an interface that can generate instructions for the browser to block or modify certain content, including ads. The catch is that each extension would be limited to 30,000 rules it can apply.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eGoogle runs the largest digital ad platform in the United States, the  world\u0026rsquo;s most popular web browser, and the company \u003ca href=\"https://audacious.blog/2017/advertisement-farm/\"\u003emakes almost all of its money from advertisements\u003c/a\u003e. Google wants you to see more ads. Their business depends on it, in fact.\u003c/p\u003e\n\u003cp\u003eTherefore, any Google-led changes to Chrome that restrict a user\u0026rsquo;s ability to \u003cem\u003eblock ads\u003c/em\u003e will inevitably be under intense scrutiny—and for good reason. Taken in the best light, this is Google trying to ensure Chrome continues to be as fast and secure as possible. Taken in the worst, these proposed changes are one more instance of Google using its dominance in search, advertising, and web browsing to benefit Google.\u003c/p\u003e\n\u003cp\u003eThis move isn\u0026rsquo;t totally without precedence—Apple made a similar change in 2015 when it limited the number of rules a content blocker  could employ to 50,000. But a combination of Google\u0026rsquo;s proposal limiting the number of rules to just 30,000 and Google being, well, Google has escalated this story to a whole other level.\u003c/p\u003e\n\u003cp\u003eTo be fair though, even though Apple allows content blockers to use 50,000 rules, popular ad blockers (read: ones that do the job well) often need hundreds of thousands of rules to be effective. I \u003ca href=\"https://1blocker.com\"\u003euse 1Blocker\u003c/a\u003e on my devices,  but even 1Blocker\u0026rsquo;s developer skirts around the 50,000 rule limit by \u003ca href=\"https://twitter.com/1blockerapp/status/987214584376430592?lang=en\"\u003eimplementing each rule \u0026ldquo;set\u0026rdquo; as a separate content blocker\u003c/a\u003e, thereby allow 1Blocker to check against over 350,000 rules.\u003c/p\u003e\n\u003cp\u003eAt the end of the day, this change to Chrome is only a proposal. And if we\u0026rsquo;re giving Google any kudos, it\u0026rsquo;s that they\u0026rsquo;re still conducting sensitive changes to Chromium \u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=896897\u0026amp;desc=2#c23\"\u003ein the open\u003c/a\u003e. I\u0026rsquo;m also not suggesting that Apple and Google are wholly wrong here. The pursuit of enhanced privacy while still allowing users to have some control over their browsers is a path filled with compromises. And since browser makers aren\u0026rsquo;t going to \u003cem\u003enot\u003c/em\u003e evolve their products, I think it\u0026rsquo;s important that you understand the motives that may be driving their decisions.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e(And now a brief primer on how ad blockers work for the non-tech savvy family members who read my site ♥. Ad blockers prevent certain webpage elements from displaying by (a) preventing your browser from talking to certain ad-related servers and (b) maintaining a custom list of elements that either you or the community at large have flagged as worth blocking. They do this by comparing requests your browser\u0026rsquo;s resource requests against a list of tens of thousands of text patterns—if a request matches one of these rules, the content is blocked.  When using an ad blocker, browsing the web should feel faster, because your browser no longer has to wait on five different ads to download or tracking scripts to execute. Take a site like \u003cem\u003eThe Verge\u003c/em\u003e, the well-known tech site/advertisement billboard. Without an ad blocker installed, \u003cem\u003eThe Verge\u0026rsquo;s\u003c/em\u003e homepage weighs in at 5.8 MB with over 350 network requests to (I assume) ad and tracking servers. However, if you install an ad blocker \u003ca href=\"https://github.com/gorhill/uBlock\"\u003elike uBlock Origin\u003c/a\u003e, \u003cem\u003eThe Verge\u0026rsquo;s\u003c/em\u003e homepage now only weighs 4.2 MB with fewer than 50 network requests.)\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Proposed Changes to Chrome Would Hamper Ad Blockers\" href='https://audacious.blog/2019/chrome-ad-blockers'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-               
-                "title": "Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone",
-                "external_url": "https://mobile.twitter.com/Twitter/status/1087791357756956680",
-                 
-          "url": "https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone/",
-                "date_published": "2019-01-23T19:50:55-05:00",
-                "id": "https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eTwitter\u0026rsquo;s calling it the \u0026ldquo;new twitter.com\u0026rdquo;, but this update \u003ca href=\"https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html\"\u003eis clearly the lite variant\u003c/a\u003e of their website that mobile users have been using for over a year. Good on them for pushing this out to everyone—I\u0026rsquo;ve found it to be significantly faster and nicer to use than the normal site. It\u0026rsquo;s also (\u003ca href=\"https://www.theverge.com/2018/2/16/17021960/twitter-mac-desktop-app-discontinued-support-ending\"\u003esadly\u003c/a\u003e) the best official way to use Twitter on your Mac.\u003c/p\u003e\n\u003cp\u003eIf you\u0026rsquo;re still seeing the old/current version, you can check out what\u0026rsquo;s coming by going directly to \u003ca href=\"https://mobile.twitter.com\"\u003emobile.twitter.com\u003c/a\u003e.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone\" href='https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
             }
         
     ]

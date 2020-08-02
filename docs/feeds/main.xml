@@ -6,7 +6,26 @@
     <atom:link href="https://audacious.blog/" rel="self" type="application/rss+xml"/>
     <rights>Copyright ©, K.Q. Dreger</rights>
 
-    <lastBuildDate>Wed, 15 Apr 2020 20:18:33 -0400</lastBuildDate>    
+    <lastBuildDate>Sun, 02 Aug 2020 15:50:01 -0400</lastBuildDate>    
+    <item>
+        <author>K.Q. Dreger</author>
+       
+        <title>Medium Testing New Visual Customization</title>
+        <link>https://blog.medium.com/a-more-expressive-medium-483e567b19ff</link>
+      
+      <pubDate>Sun, 02 Aug 2020 15:50:01 -0400</pubDate>
+      
+      <description>
+        &lt;p&gt;Looks pretty limited right now. And half of the themes are&amp;hellip; meh? No word on custom domains, so ostensibly everything is still very much locked into their platform.&lt;/p&gt;
+&lt;p&gt;As usual, Medium is the message.&lt;/p&gt;
+
+        
+          &lt;div&gt;&lt;a title=&#34;Permanent link for Medium testing new visual customization&#34; href=&#39;https://audacious.blog/2020/medium-adds-themes&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
         <author>K.Q. Dreger</author>
        
@@ -164,7 +183,7 @@
     <item>
         <author>K.Q. Dreger</author>
       
-        <title>▲︎ Treat pain points as debt</title>
+        <title>▲︎ Treat Pain Points as Debt</title>
         <link>https://audacious.blog/2019/pain-snowball-method</link>
       
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
@@ -182,7 +201,7 @@
     <item>
         <author>K.Q. Dreger</author>
       
-        <title>▲︎ Hierarchy of product team needs</title>
+        <title>▲︎ Hierarchy of Product Team Needs</title>
         <link>https://audacious.blog/2019/product-team-needs</link>
       
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
@@ -234,7 +253,7 @@
     <item>
         <author>K.Q. Dreger</author>
        
-        <title>Replying to Emails Like a CEO Takes the Pain out of Writing Email</title>
+        <title>Replying to Emails Like a CEO Takes the Pain Out of Writing Email</title>
         <link>https://www.buzzfeednews.com/article/katienotopoulos/i-tried-emailing-like-your-boss</link>
       
       <pubDate>Sat, 31 Aug 2019 21:14:06 -0400</pubDate>
@@ -286,7 +305,7 @@
     <item>
         <author>K.Q. Dreger</author>
        
-        <title>‘What I Learned Trying To Secure Congressional Campaigns’</title>
+        <title>‘What I Learned Trying to Secure Congressional Campaigns’</title>
         <link>https://idlewords.com/2019/05/what_i_learned_trying_to_secure_congressional_campaigns.htm</link>
       
       <pubDate>Wed, 05 Jun 2019 22:43:27 -0400</pubDate>
@@ -522,7 +541,7 @@
     <item>
         <author>K.Q. Dreger</author>
        
-        <title>‘Letter Boxed’ by The New York Times</title>
+        <title>‘Letter Boxed’ by the New York Times</title>
         <link>https://www.polygon.com/2019/2/1/18205854/new-york-times-crossword-letter-boxed-puzzle-game</link>
       
       <pubDate>Sat, 09 Feb 2019 15:20:21 -0500</pubDate>
@@ -604,7 +623,7 @@
     <item>
         <author>K.Q. Dreger</author>
        
-        <title>Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone</title>
+        <title>Twitter Begins Rolling Out ‘Lite’ Version of Website to Everyone</title>
         <link>https://mobile.twitter.com/Twitter/status/1087791357756956680</link>
       
       <pubDate>Wed, 23 Jan 2019 19:50:55 -0500</pubDate>
@@ -623,7 +642,7 @@
     <item>
         <author>K.Q. Dreger</author>
        
-        <title>Netflix Says ‘Fortnite’ is a Bigger Competitor Than HBO or Hulu</title>
+        <title>Netflix Says ‘Fortnite’ Is a Bigger Competitor Than HBO or Hulu</title>
         <link>https://www.polygon.com/2019/1/17/18187400/netflix-vs-fortnite-hbo-hulu-competition</link>
       
       <pubDate>Tue, 22 Jan 2019 22:51:32 -0500</pubDate>
@@ -705,7 +724,7 @@
     <item>
         <author>K.Q. Dreger</author>
        
-        <title>Yuibco Releases Lightning Compatible Security Key for iPhone</title>
+        <title>Yuibco Releases Lightning Compatible Security Key for IPhone</title>
         <link>https://www.theverge.com/2019/1/8/18172193/yubico-security-key-lightning-connection-iphone-2fa-ces-2019</link>
       
       <pubDate>Sat, 12 Jan 2019 09:46:42 -0500</pubDate>
@@ -723,26 +742,6 @@
 
         
           &lt;div&gt;&lt;a title=&#34;Permanent link for Yuibco Releases Lightning Compatible Security Key for iPhone&#34; href=&#39;https://audacious.blog/2019/yubico-lightning&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
-
-        
-      </description>
-    </item>
-    
-    <item>
-        <author>K.Q. Dreger</author>
-       
-        <title>GitHub Now Allows Free Accounts to Have Unlimited Private Repositories</title>
-        <link>https://blog.github.com/2019-01-07-new-year-new-github/</link>
-      
-      <pubDate>Thu, 10 Jan 2019 19:29:34 -0500</pubDate>
-      
-      <description>
-        &lt;p&gt;I&amp;rsquo;ve recommended the code sharing/developer social network GitHub to many people (students and writers primarily), but the recommendation always came with the giant asterisk that everything you published would be public. It&amp;rsquo;s nice that&amp;rsquo;s no longer the case. GitHub becomes a far more attractive service—and stronger social network—when you can host &lt;em&gt;all&lt;/em&gt; your work there.&lt;/p&gt;
-&lt;p&gt;This also makes a lot of sense for where Microsoft might want to take GitHub. The majority of GitHub&amp;rsquo;s future revenue is likely to come in the form of lucrative Enterprise accounts at large companies—something Microsoft is well positioned to push—rather than free (née &lt;em&gt;personal&lt;/em&gt;) accounts that upgrade to paid tiers.&lt;/p&gt;
-&lt;p&gt;(This came at a good time for me too as I wanted to—finally—get my project files for &lt;a href=&#34;https://apps.apple.com/us/app/id1231744746&#34;&gt;Edit&lt;/a&gt; into their own GitHub repository. Hours after the announcement, I created a new private repository and got everything uploaded. This is going to make my development life so much better. Previously, the whole project was stuffed into a random Dropbox folder. The cobbler&amp;rsquo;s kids have no shoes, right?)&lt;/p&gt;
-
-        
-          &lt;div&gt;&lt;a title=&#34;Permanent link for GitHub Now Allows Free Accounts to Have Unlimited Private Repositories&#34; href=&#39;https://audacious.blog/2019/github-unlimited-private-repos&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
 
         
       </description>

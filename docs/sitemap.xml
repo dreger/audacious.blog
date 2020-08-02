@@ -4,14 +4,21 @@
   
   <url>
     <loc>https://audacious.blog/</loc>
-    <lastmod>2020-04-15T20:18:33-04:00</lastmod>
+    <lastmod>2020-08-02T15:50:01-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://audacious.blog/links/</loc>
-    <lastmod>2020-04-15T20:18:33-04:00</lastmod>
+    <lastmod>2020-08-02T15:50:01-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://audacious.blog/2020/medium-adds-themes/</loc>
+    <lastmod>2020-08-02T15:50:01-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

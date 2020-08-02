@@ -34,6 +34,7 @@
   {{ end -}}
   <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
   <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/7792012/css/fonts.css" />
+  
   {{ $style := resources.Get "d.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 

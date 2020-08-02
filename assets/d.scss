@@ -177,23 +177,24 @@ main {
 .index__item__title { font-weight: var(--font-weight-bold); }
 .index__item__title--note {
   font-weight: var(--font-weight-bold); 
-  &:before {
-    content: ""; 
-    display: inline-block; 
-    background-image: url(/images/file-text.svg);
-    background-size: 100% 100%; 
-    background-repeat: no-repeat;
-    background-position: center; 
-    width: 1rem; 
-    height: 1rem;
-    top: 2px; 
-    position: relative; 
-    margin: 0 .25rem 0 0;  
-  }
 }
 .index__item__title--link { 
   font-weight: var(--font-weight-regular); 
   font-size: .875rem; 
+  &:before {
+    content: ""; 
+    display: inline-block; 
+    background-image: url(/images/link.svg);
+    background-image: url(/images/link-2.svg);
+    background-size: 100% 100%; 
+    background-repeat: no-repeat;
+    background-position: center; 
+    width: 1em; 
+    height: 1em;
+    top: 2px; 
+    position: relative; 
+    margin: 0 .5em 0 0;  
+  }
 }
 
 .post__meta {

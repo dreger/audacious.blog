@@ -1,10 +1,7 @@
 ---
 author: CD
 date: 2015-07-14T00:00:00Z
-redirect_from:
-- 2015/07/14/start.html
 title: Don’t Read More, Read Different
-
 ---
 
 _By guest editor, Christopher B. Durr._
@@ -12,8 +9,6 @@ _By guest editor, Christopher B. Durr._
 > Do you want to be a better scientist? Study architecture, cooking, economics, mechanics. Go outside your field and ask questions. 
 
 That's some of the best advice I have ever been given. Too often we view the same sites on the Internet over and over again _ad nauseam_. Facebook, news, e-mail, rinse and repeat. The news is great for information but short on inspiration. Here are some of my favorite sites to get you thinking (about something else).
-
-<!--more-->
 
 1. Architecture &mdash; A great amalgamation of Art + Engineering + Science, architecture and design is everywhere, not just in the buildings we see everyday. Have you ever thought about how useless a ceramic coffee mug would be without the simple addition of a handle? Thinking like an architect helps me approach problems from a different angle. My favorite site for inspiration is [Architectural Digest](http://www.architecturaldigest.com/), which covers a range of topics that keep me thinking. As a bonus, I now know exactly how I'll design my imaginary house on Cape Cod.
 

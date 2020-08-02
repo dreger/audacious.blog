@@ -1,8 +1,6 @@
 ---
 date: 2016-09-01T00:00:00Z
 link: http://audaciousfox.net/projects/headliner
-redirect_from:
-- linked/2016/09/01/headliner-js
 title: Orphaned Words in Headlines
 ---
 

@@ -1,7 +1,5 @@
 ---
 date: 2016-01-09T00:00:00Z
-redirect_from:
-- /2016/01/09/fitbit-hr-review.html
 title: Fitbit HR Review Transcript
 
 ---

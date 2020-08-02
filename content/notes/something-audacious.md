@@ -1,8 +1,6 @@
 ---
 author: KD
 date: 2014-10-20T00:00:00Z
-redirect_from:
-- 2014/10/20/something-audacious.html
 title: Something Audacious
 
 ---

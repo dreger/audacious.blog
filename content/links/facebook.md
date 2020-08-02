@@ -1,9 +1,6 @@
 ---
 date: 2016-01-30T00:00:00Z
 link: http://www.bloomberg.com/features/2016-facebook-reactions-chris-cox/
-redirect_from:
-- 2016/01/30/facebook.html
-- linked/2016/01/30/facebook
 source: bloombergbw
 title: Angry, Sad, Wow, Haha, Like and Love
 ---

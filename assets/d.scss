@@ -1,21 +1,19 @@
 @charset "UTF-8";
 
 :root {
-  --accent: #2573DA;
-  --accent: #FF1C52;
-  --accent-yellow: #FFC200; // rgb(255,194,0)
-  --accent: #222; 
+  // Colors
+  --accent: #FFC200;
   --text-heading: rgba(0,0,0,.9);
   --text: rgba(0,0,0,.8);
   --faded: #f1f1f1; 
   --faded-text: #757575; 
-  --bg: #EBE7DD;
   --bg: #fafafa;
+  --bg-column: #fff; 
+
+  // Sizing
   --font-weight-bold: 600; 
   --font-weight-regular: 500; 
   --font: "Whitney SSm A", "Whitney SSm B", -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, serif; 
-  --max-width-column: 30rem;
-  --max-width-nav: 240px; 
   --max-width: 44rem; 
   --padding: 4rem; 
   --font-size: 16px; 
@@ -68,11 +66,11 @@ li { margin-bottom: .5rem; }
 a {
   color: var(--text); 
   text-decoration: none; 
-  border-bottom: 2px solid var(--accent-yellow);
+  border-bottom: 2px solid var(--accent);
 }
 a:hover { 
-  border-color: var(--accent); 
-  color: var(--accent); 
+  border-color: var(--text); 
+  color: var(--text); 
 }
 
 blockquote {
@@ -100,7 +98,7 @@ main {
   max-width: var(--max-width); 
   margin: 3rem auto;
   padding: var(--padding); 
-  background: white; 
+  background: var(--bg-column); 
   border-radius: 4px; 
 }
 
@@ -161,45 +159,7 @@ main {
   }
 }
 
-.icons {
-  display: flex; 
-  margin: 1.5rem 0; 
-}
 
-.icon {
-  display: flex;
-  width: 280px; 
-  margin-right: .5rem; 
-  border: 0; 
-  border-radius: 20px; 
-  padding: .875rem; 
-  align-items: center; 
-  &:hover {
-    background-color: var(--faded); 
-  }
-  &:hover .icon__image {
-    transform: rotate(-8deg); 
-  }
-}
-.icon__image {
-  transition: ease-out .2s all; 
-  background-size: 100% 100%; 
-  background-repeat: no-repeat;
-  background-position: center; 
-  border-radius: 12px; 
-  transform: rotate(-4deg);
-  margin-right: .75rem;
-  width: 3rem; 
-  height: 3rem; 
-}
-.icon__image--af {
-  background-image: url(/images/af.svg);
-  background-color: var(--accent-yellow); 
-}
-.icon__image--edit {
-  background-image: url(/images/edit.svg);
-  background-color: #222; 
-}
 
 .index__item { margin-bottom: 1.5rem; }
 .index__item__title { font-weight: var(--font-weight-bold); }
@@ -237,14 +197,6 @@ main {
 
 
 
-.shadow {
-  box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
-              0 2px 2px rgba(0,0,0,0.11), 
-              0 4px 4px rgba(0,0,0,0.11), 
-              0 6px 8px rgba(0,0,0,0.11),
-              0 8px 16px rgba(0,0,0,0.11);
-}
-
 @media (max-width: 900px) {
   :root {
     --max-width: 32rem; 
@@ -257,12 +209,8 @@ main {
     --padding: 1rem; 
     --max-width: 100%; 
   }
-  .icons { 
-    flex-direction: column; 
-  }
-  .icon { margin-bottom: .5rem; }
   main {
-    margin: 0;
+    margin: 0 0 3rem;
   }
   .index__item__title--note:before {
     top: 3px; 

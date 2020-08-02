@@ -1,8 +1,6 @@
 ---
 author: KD
 date: 2014-12-12T00:00:00Z
-redirect_from:
-- 2014/12/12/budgeting.html
 title: On Budgeting
 
 ---

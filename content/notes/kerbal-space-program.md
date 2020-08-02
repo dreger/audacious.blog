@@ -1,10 +1,7 @@
 ---
 author: CD
 date: 2015-07-17T00:00:00Z
-redirect_from:
-- 2015/07/17/kerbal-space-program.html
 title: 'Kerbal Space Program: To the Moon'
-
 ---
 
 _By guest editor, Christopher B. Durr._
@@ -12,8 +9,6 @@ _By guest editor, Christopher B. Durr._
 > We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard &mdash;John F. Kennedy
 
 This famous quote by Jack is one of my favorites and one that I think we often forget to remember. President Kennedy, of course, was talking about what would become the U.S. space program. A program that involved strapping human beings to giant stacks of fuel and launching them 230,000+ miles away from home, in a time when computers were the size of rooms. Hard – I might have picked a different word.
-
-<!--more--> 
 
 I've always admired the scientists and engineers that worked, and still _do_ work, to put humans into space. Yet, my admiration was always from a distance. I thought their job impossible, but in the way you might think a theoretical physicist's, or a cardiovascular surgeon’s job is impossible.
 

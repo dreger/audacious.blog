@@ -2,7 +2,7 @@ baseURL = "https://audacious.blog/"
 languageCode = "en-us"
 titleCaseStyle = "AP"
 
-title = "Audacious by KQD"
+title = "Audacious"
 uglyurls = false
 publishDir = "docs"
 disableKinds = ['RSS', 'taxonomy', 'taxonomyTerm']

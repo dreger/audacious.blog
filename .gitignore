@@ -1,4 +1,4 @@
-
+/resources/*
 /public/*
 
 # Ignore junk files

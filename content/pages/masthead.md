@@ -9,7 +9,7 @@ Audacious is written, edited, and produced by [K.Q. Dreger](https://dreger.me). 
 
 
 ## Get in touch 
-[@Dreger](https://twitter.com/dreger) or <blog@dreger.me>. 
+[@Dreger](https://twitter.com/dreger) or <comments@dreger.me>. 
 
 <!-- 
 I look like this: 

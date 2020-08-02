@@ -2,7 +2,14 @@
 title: Masthead
 ---
 
-Audacious is written, edited, and produced by [K.Q. Dreger](https://dreger.me). Published from Northeast Ohio. Thanks for reading. ✌️
+Audacious is written, edited, and produced by [K.Q. Dreger](https://dreger.me). 
+
+This site is run out of my own pocket and in my spare time. What it lacks in regularity is hopefully made up for in quality. 
+
+I aim to write so you don't need to skim. Rigorous editing is a cornerstone of this website, and I keep an [in-house style guide](/style-guide), which you’re welcome to read and remix.
+
+
+Published from Northeast Ohio. Thanks for reading. ✌️
 
 <small>(Also, “Kyle” is fine—I just sign my name KQ. My favorite authors all went by first-initial-middle-initial-last-name, and I really like that style.)</small>
 
@@ -14,22 +21,22 @@ Audacious is written, edited, and produced by [K.Q. Dreger](https://dreger.me). 
 <!-- 
 I look like this: 
 
-![my face](/images/kqd.png) -->
+![my face](/images/kqd.png) 
 
 ## Your host, briefly
 
-K.Q. Dreger is a scrawny, Ohio-raised farm boy who fell in love with his first computer way too early and spent subsequent years learning how it worked. Like really worked, on a 1s and 0s level. When his parents told him to stop looking at a screen, he shifted attention to a heavy-as-hell Underwood typewriter from his grandfather and bam-bam-bam-bam-dinged until his fingers were sore and a unrelenting drive to write had emerged. Sometime in high school, he wrote his first thing that wasn't complete garbage and posted it online. It was a tutorial on how to diagnose network issues with your home router. Cool. Six hours later, some cowardly anonymous jerk left a comment saying how stupid they thought the post was. Two hours later, the blog was deleted. Fast forward a fair number of years where with thicker skin and a larger vocabulary, a new online thing was born. The topics switched from router issues to equal parts privacy, design, writing, and technology. The writing style attempts to be terse, sentences occasionally start with "and" even though people think you're not supposed to do that. (You're totally allowed.) And although the publishing schedule isn’t daily, when something new does hit [the front page](/), there’s a nonzero chance it’ll be worth your time. Audacious will remain online forever or until the the proprietor dies and the domain expires. 
+K.Q. Dreger is a scrawny, Ohio-raised farm boy who fell in love with his first computer way too early and spent subsequent years learning how it worked. Like really worked—on a 1s and 0s level. When his parents told him to stop looking at a screen, he shifted attention to a heavy-as-hell Underwood typewriter from his grandfather and bam-bam-bam-bam-dinged until his fingers were sore and a unrelenting drive to write had emerged. Sometime in high school, he wrote his first thing that wasn't complete garbage and posted it online. It was a tutorial on how to diagnose network issues with your home router. Cool. Six hours later, some cowardly anonymous jerk left a comment saying how stupid they thought the post was. Two hours later, the blog was deleted. Fast forward a fair number of years where with thicker skin and a larger vocabulary a new online thing was born. The topics switched from router issues to equal parts people, products, and punctuation. The writing style attempts to be terse, sentences occasionally start with "and" even though people think you're not supposed to do that. (You're totally allowed.) And although the publishing schedule isn’t daily, when something new does hit [the front page](/), there’s a nonzero chance it’ll be worth your time. This site will remain online forever or until the the proprietor dies and the domain expires. 
 
 (The proprietor currently lives with his wife, son, and small dog in a two-story house where the roof occasionally leaks and there's a breeze coming through the fireplace, but the water is hot, the garage holds two cars, and there's a big enough yard for a small soccer goal where his deteriorating skills in the sport are nonetheless practiced on warm summer nights.)
 
-### TL;DR and shifting to first person 
+## TL;DR and shifting to first person 
 
 This site is run out of my own pocket and in my spare time. What it lacks in regularity is hopefully made up for in quality. 
 
 I aim to write so you don't need to skim. Rigorous editing is a cornerstone of this website, and I keep an [in-house style guide](/style-guide), which you’re welcome to read and remix. (On the other hand, we have a new baby in the house so my editing will only be as good as I can make it at midnight.) I also believe that clarity of writing follows clarity of thought, which only comes after you've written multiple *terrible* first drafts. 
 
 Some random tidbits I enjoy sharing: energy, diction, and honesty are three great words; have strong opinions, loosely held; waffles are the bar by which all other breakfast foods are judged; and if you want to be a better writer, read everything you can. 
-
+-->
 
 
 

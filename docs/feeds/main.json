@@ -3,8 +3,8 @@
     "title": "Audacious by KQD",
     "home_page_url": "https://audacious.blog/",
     "feed_url": "https://audacious.blog/",
-    "icon" : "https://audacious.blog//apple-touch-icon.png",
-    "favicon" : "https://audacious.blog//favicon.png",
+    "icon" : "https://audacious.blog/apple-touch-icon.png",
+    "favicon" : "https://audacious.blog/favicon.png",
     "author" : {
       "url" : "https://twitter.com/dreger",
       "name" : "K.Q. Dreger"

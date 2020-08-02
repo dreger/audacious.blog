@@ -3,8 +3,8 @@
     "title": "{{ .Site.Title }}",
     "home_page_url": "{{ .Site.BaseURL }}",
     "feed_url": "{{ .Permalink }}",
-    "icon" : "{{ .Site.BaseURL }}/apple-touch-icon.png",
-    "favicon" : "{{ .Site.BaseURL }}/favicon.png",
+    "icon" : "{{ .Site.BaseURL }}apple-touch-icon.png",
+    "favicon" : "{{ .Site.BaseURL }}favicon.png",
     "author" : {
       "url" : "{{ .Site.Author.url }}",
       "name" : "{{ .Site.Author.name }}"

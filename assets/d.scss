@@ -5,8 +5,8 @@
   --accent: #FF1C52;
   --accent-yellow: #FFC200; // rgb(255,194,0)
   --accent: #222; 
-  --text-heading: rgba(0,0,0,.85);
-  --text: rgba(0,0,0,.75);
+  --text-heading: rgba(0,0,0,.9);
+  --text: rgba(0,0,0,.8);
   --faded: #f1f1f1; 
   --faded-text: #757575; 
   --bg: #EBE7DD;
@@ -209,7 +209,7 @@ main {
     content: ""; 
     display: inline-block; 
     background-image: url(/images/link.svg);
-    background-image: url(/images/file-text.svg);
+    background-image: url(/images/file-text-heavy.svg);
     background-size: 100% 100%; 
     background-repeat: no-repeat;
     background-position: center; 
@@ -248,7 +248,7 @@ main {
 @media (max-width: 900px) {
   :root {
     --max-width: 32rem; 
-    --font-size: 20px; 
+    --font-size: 18px; 
   }
 }
 
@@ -263,5 +263,8 @@ main {
   .icon { margin-bottom: .5rem; }
   main {
     margin: 0;
+  }
+  .index__item__title--note:before {
+    top: 3px; 
   }
 }

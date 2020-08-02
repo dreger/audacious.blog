@@ -33,7 +33,7 @@
 
     {{ range .Pages }}
     	<article class="index__item">
-			<a class='index__item__title{{ if eq .Section "links" }}--link{{ else }}--note{{ end }}' title="{{ .Title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ if eq .Section "notes" }}{{ end }}{{ .Title }}</a><br><span class="post__summary">{{ .Summary | truncate 140 }}</span>
+			<a class='index__item__title{{ if eq .Section "links" }}--link{{ else }}--note{{ end }}' title="{{ .Title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ if eq .Section "notes" }}{{ end }}{{ .Title }}</a><br><span class="post__summary">{{ .Summary | truncate 120 }}</span>
 		</article>
     {{ end }}
 {{ end }}

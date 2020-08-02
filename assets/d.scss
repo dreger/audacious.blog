@@ -208,7 +208,6 @@ main {
 }
 .index__item__title--link { 
   font-weight: var(--font-weight-regular); 
-  // font-size: .875rem; 
   &:before {
     content: ""; 
     display: inline-block; 
@@ -266,9 +265,7 @@ main {
   main {
     margin: 0;
   }
-  .headshot {
-    width: 25%;
-    margin: 1rem;
-    figcaption { display: none; }
+  .index__item__title--link:before {
+    top: 3px; 
   }
 }

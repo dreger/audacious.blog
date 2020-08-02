@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Audacious by KQD</title>
+    <link>https://dreger.me/pages/</link>
+    <description>Recent content in Pages on Audacious by KQD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://dreger.me/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Masthead</title>
+      <link>https://dreger.me/masthead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreger.me/masthead/</guid>
+      <description>Audacious is written, edited, and produced by K.Q. Dreger. Published from Northeast Ohio. Thanks for reading. ✌️
+(Also, “Kyle” is fine—I just sign my name KQ. My favorite authors all went by first-initial-middle-initial-last-name, and I really like that style.)Get in touch @Dreger or blog@dreger.me.
+Your host, briefly K.Q. Dreger is a scrawny, Ohio-raised farm boy who fell in love with his first computer way too early and spent subsequent years learning how it worked.</description>
+    </item>
+    
+    <item>
+      <title>Style Guide</title>
+      <link>https://dreger.me/style-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreger.me/style-guide/</guid>
+      <description>Working title: Web Elements of Style This document is both an in-progress draft of some short, practical opinions on what makes good written web markup and a personalized list of editorial decisions that are a superset of those found in the New York Times Manual of Style. The goal here is to bring a consistent voice to all the writing on this site.
+Please feel free to remix or copy the contents here for your own personal use.</description>
+    </item>
+    
+    <item>
+      <title>Terms &amp; Privacy</title>
+      <link>https://dreger.me/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreger.me/privacy/</guid>
+      <description>Short and sweet:
+ You use this website and everything hosted here at your own risk. Anything you download to your computer is also done so at your own risk. All linked to websites are thoroughly vetted; however, if you visit anything not hosted at audaciousfox.net, the liability changes to adhere to those listed in the privacy policy and terms of that website.  Ads I do not run any third-party advertisements.</description>
+    </item>
+    
+  </channel>
+</rss>

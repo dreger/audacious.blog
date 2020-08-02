@@ -1,8 +1,5 @@
 ---
 title: Style Guide
-aliases:
-  - /manual-of-style/
-  - /style-guide/
 ---
 
 ### Working title: Web Elements of Style

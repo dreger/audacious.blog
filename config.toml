@@ -5,6 +5,7 @@ titleCaseStyle = "AP"
 title = "Audacious by KQD"
 uglyurls = false
 publishDir = "docs"
+disableKinds = ['RSS', 'taxonomy', 'taxonomyTerm']
 [permalinks]
 	notes = "/notes/:filename"
 	links = "/links/:filename"

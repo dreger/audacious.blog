@@ -1,10 +1,5 @@
 ---
-title: "HTTPS is Like Fluoride"
-title: "The Web Should Be Secured"
 title: "HTTPS and the Secure Web"
-aliases:
- - /2018/the-web-should-be-secured/
-date: 2018-03-11T19:50:10-04:00
 ---
 
 Should every page you visit on the Internet be served over HTTPS? For banks and online stores, the answer is an obvious yes. But what about blogs, decades old web archives, and other bland online data? Do these documents deserve secured connections?  

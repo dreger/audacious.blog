@@ -5,7 +5,8 @@
   <url>
     <loc>https://audacious.blog/</loc>
     <lastmod>2020-04-15T20:18:33-04:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>

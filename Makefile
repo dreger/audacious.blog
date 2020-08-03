@@ -20,8 +20,10 @@
 # clean:
 #     @rm -rf $(SRC_DIR)
 
+# Examples above: 
+
 gen: 
-	hugo --cleanDestinationDir && git add . && git commit -a
+	hugo --cleanDestinationDir && git add . && git commit -a && git push
 
 serve: 
 	hugo serve -w --disableFastRender

@@ -6,7 +6,38 @@
     <atom:link href="https://audacious.blog/" rel="self" type="application/rss+xml"/>
     <rights>Copyright ©, K.Q. Dreger</rights>
 
-    <lastBuildDate>Sun, 02 Aug 2020 15:50:01 -0400</lastBuildDate>    
+    <lastBuildDate>Sun, 02 Aug 2020 22:02:33 -0400</lastBuildDate>    
+    <item>
+        <author>K.Q. Dreger</author>
+      
+        <title>▲︎ WFH</title>
+        <link>https://audacious.blog/2020/wfh</link>
+      
+      <pubDate>Sun, 02 Aug 2020 22:02:33 -0400</pubDate>
+      
+      <description>
+        &lt;p&gt;Up between 6–6:30. Drink a full glass of water, take a shower, get dressed. Make the bed; &lt;a href=&#34;https://www.artofmanliness.com/articles/how-to-make-a-bed-using-hospital-corners/&#34;&gt;hospital corners&lt;/a&gt;. Put on tennis shoes. I tried slippers for a while, but a standing desk calls for extra arch support.&lt;/p&gt;
+&lt;p&gt;Downstairs, start the coffee. 50 grams for about 6 cups. It&amp;rsquo;s a weaker brew, but that means I can have a few cups without getting twitchy. Water into the stovetop pot. Add oats. Make breakfast. (How have more people not experienced the awesomeness of oats, greek yogurt, and a little brown sugar?)&lt;/p&gt;
+&lt;p&gt;Family time, morning talks, good vibes. It&amp;rsquo;s about 8:00. Another 10-15 minutes, then I’ll grab a large cup of coffee and head upstairs to the office.&lt;/p&gt;
+&lt;p&gt;Crack the windows, let sunshine stream in.&lt;/p&gt;
+&lt;p&gt;8:15-45 is my chance to parse the day. I start with a beat of silence and a prayer, then I take a large sip of coffee and flick open a variety of windows.&lt;/p&gt;
+&lt;p&gt;First up, Slack and email.&lt;/p&gt;
+&lt;p&gt;90% of my Slack channels are muted. My notifications are off by default, which helps me treat Slack more like email and less like a 90s pager. I scan all unread channels and DMs, then throw anything warranting a followup into Starred.&lt;/p&gt;
+&lt;p&gt;Email is next. Through years of filter creation, my email is sort of like the Millenium Falcon—filled with really old stuff but tuned &lt;em&gt;exactly&lt;/em&gt; how I like it. Everything in my inbox is signal.&lt;/p&gt;
+&lt;p&gt;Within several minutes, Slack and email are completely dispatched. Now to the calendar. What am I attending today? Tomorrow? What information do I need to have ready? Look at a handful of dashboards. How’s the bug count this week? Which teams have key members on PTO? Did the last 24 hours of pulse metrics look like I expected?&lt;/p&gt;
+&lt;p&gt;Close the windows, because the sun is doing its thing and warming up the Earth.&lt;/p&gt;
+&lt;p&gt;Visually, my calendar is stuffed. But a third of those chunky boxes are meetings with myself. Margin time, at least 1-2 hours every single day. It’s here that I work on my Most Important Things.&lt;/p&gt;
+&lt;p&gt;What are the Most Important Things? I have a simple system: take the top 2-4 most important things I could do this week and put them on a flashcard. The rest of the day will be about relentlessly attempting to complete everything on this list. I&amp;rsquo;ll usually get through about half, while adding 5-10 new items along the way. Tomorrow I’ll prune it back down to the top 2-4. Rinse, wash, repeat.&lt;/p&gt;
+&lt;p&gt;(What about a to-do app? I use one, but I use it differently than most. The only things that go in here are commitments I’ve made to other people. My to-do app is my your-word-means-something app.)&lt;/p&gt;
+&lt;p&gt;Pop downstairs, grab some snuggles from the kiddo, refill the coffee, and climb back upstairs.&lt;/p&gt;
+&lt;p&gt;The rest of the day oscillates between meetings and my Most Important Things. For meetings, I have a yellow legal pad and a .5mm rollerball. I used to roll with a .38mm, but the .5 feels way more messy and therefore better. Once the day is wrapped, I go back through every page of notes and move things either into my to-do app or onto my calendar. I&amp;rsquo;ve considered an iPad for this daylong writing, but I like paper. Again, the mess is what makes it great.&lt;/p&gt;
+&lt;p&gt;Finally, I journal for 5-10 minutes. This is some of the most important writing I do each day. I focus on any decisions I made and my rationale for making them.&lt;/p&gt;
+&lt;p&gt;Downstairs, dinner, books, bed, and hope to be just a little bit better tomorrow.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
         <author>K.Q. Dreger</author>
        
@@ -716,32 +747,6 @@
 
         
           &lt;div&gt;&lt;a title=&#34;Permanent link for Doist Switches From Medium to WordPress&#34; href=&#39;https://audacious.blog/2019/doist-leaves-medium-for-wordpress&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
-
-        
-      </description>
-    </item>
-    
-    <item>
-        <author>K.Q. Dreger</author>
-       
-        <title>Yuibco Releases Lightning Compatible Security Key for IPhone</title>
-        <link>https://www.theverge.com/2019/1/8/18172193/yubico-security-key-lightning-connection-iphone-2fa-ces-2019</link>
-      
-      <pubDate>Sat, 12 Jan 2019 09:46:42 -0500</pubDate>
-      
-      <description>
-        &lt;p&gt;Russell Brandom, &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Yubico has announced a new version of its popular Security Key for use in Lightning ports, the first such device to enable physical token authentication for iPhones. The device also supports a USB-C connection.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Previously, the only way to connect a security key to an iPhone was over Bluetooth, which suffered Bluetooth’s normal usability issues as well as potential security concerns around mistaken pairings. Android devices can also pair over NFC, but that functionality is impossible under iOS’s current NFC restrictions.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Yubico wasn&amp;rsquo;t likely to ever make a Lightning-only security key because these keys are most useful when they&amp;rsquo;re device agnostic. iOS apps will have to add support for these sorts of keys, but it&amp;rsquo;s still nice that a Bluetooth-free security key option now exists for iPhone users.&lt;/p&gt;
-&lt;p&gt;(Brief primer on security keys, because I both use and recommend them: While a house key gets you into your home and a car key is required to start your vehicle—a physical Yubico security key can be a required part of your login flow for email, social media, etc. This makes those accounts almost impossible to hack, because an attacker would need your physical key. Additionally, I&amp;rsquo;ve found most people are (a) more willing to use and (b) faster to understand the concept of a physical key for your email; whereas explaining two-factor authentication codes can often take a few rounds of drawing before the idea takes.)&lt;/p&gt;
-
-        
-          &lt;div&gt;&lt;a title=&#34;Permanent link for Yuibco Releases Lightning Compatible Security Key for iPhone&#34; href=&#39;https://audacious.blog/2019/yubico-lightning&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
 
         
       </description>

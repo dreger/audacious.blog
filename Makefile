@@ -22,3 +22,6 @@
 
 gen: 
 	hugo --cleanDestinationDir && git add . && git commit -a
+
+serve: 
+	hugo serve -w --disableFastRender

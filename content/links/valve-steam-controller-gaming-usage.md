@@ -2,7 +2,6 @@
 title: "60 Million Steam Players Have Connected Some Type of Controller"
 date: 2018-09-25T22:28:01-04:00
 link: https://steamcommunity.com/games/593110/announcements/detail/1712946892833213377
-draft: true
 ---
 
 

@@ -30,7 +30,7 @@
 
  {{ range (where .Site.RegularPages "Section" "in" "notes links").GroupByDate "2006" }}
 
-	<!-- <h2>{{ .Key }}</h2>  -->
+	<h2>{{ .Key }}</h2> <br>
 
     {{ range .Pages }}
     	<article class="index__item">
@@ -39,6 +39,7 @@
 			<!-- <br><span class="post__summary">{{ .Summary | truncate 120 }}</span> -->
 		</article>
     {{ end }}
+    <br><br>
 {{ end }}
 
 {{ end }} 

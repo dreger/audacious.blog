@@ -66,12 +66,13 @@ ul { list-style: square; padding-left: 1.25rem; }
 li { margin-bottom: .5rem; }
 a {
   color: var(--text); 
-  text-decoration: none; 
-  border-bottom: 2px solid var(--faded-line);
+  // text-decoration: none; 
+  text-decoration-color: var(--accent); 
+  text-decoration-thickness: 2px; 
+  // border-bottom: 2px solid var(--faded-line);
 }
 a:hover { 
-  border-color: var(--accent); 
-  color: var(--text); 
+  text-decoration-color: var(--text); 
 }
 
 blockquote {
@@ -189,7 +190,7 @@ main {
   font-size: 1rem;
   color: var(--faded-text); 
   margin-top: 0;
-  border-color: transparent; 
+  text-decoration-color: transparent; 
 }
 
 .post__summary {
@@ -201,7 +202,7 @@ main {
 @media (max-width: 900px) {
   :root {
     --max-width: 32rem; 
-    --font-size: 18px; 
+    --font-size: 16px; 
   }
 }
 

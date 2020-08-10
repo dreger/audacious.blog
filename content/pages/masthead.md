@@ -46,9 +46,9 @@ Written on a MacBook Air (with the good keyboard) or iPhone 11 Pro (the sensibly
 
 Hosted on GitHub Pages, generated with Hugo. 
 
-Body copy and headers are set in [Whitney](https://www.typography.com/fonts/whitney/overview) by Hoefler & Co.
+Headers set in San Francisco by Apple. Body copy set in [IBM Plex Serif](https://en.wikipedia.org/wiki/IBM_Plex) by Mike Abbink and Bold Monday. 
 
-*Previous typefaces: [IBM Plex Mono/Serif](https://en.wikipedia.org/wiki/IBM_Plex) by Mike Abbink and Bold Monday, [Gotham](https://www.typography.com/fonts/gotham/overview/) by Hoefler &amp; Co., [Source Serif Pro](https://fonts.adobe.com/fonts/source-serif) by Adobe, [Inter](https://rsms.me/inter/) by Rasmus Andersson, [Concourse](http://practicaltypography.com/concourse.html) by Matthew Butterick, San Francisco, Athelas by Veronika Burian and Jose Scaglione, and [Charter](http://practicaltypography.com/charter.html) by Matthew Carter.*
+*Previous typefaces: [Whitney](https://www.typography.com/fonts/whitney/overview) by Hoefler & Co., [Gotham](https://www.typography.com/fonts/gotham/overview/) by Hoefler &amp; Co., [Source Serif Pro](https://fonts.adobe.com/fonts/source-serif) by Adobe, [Inter](https://rsms.me/inter/) by Rasmus Andersson, [Concourse](http://practicaltypography.com/concourse.html) by Matthew Butterick, San Francisco, Athelas by Veronika Burian and Jose Scaglione, and [Charter](http://practicaltypography.com/charter.html) by Matthew Carter.*
 
 This site should look good in all modern web browsers—please let me know if it doesn't
 

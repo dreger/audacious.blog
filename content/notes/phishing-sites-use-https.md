@@ -14,4 +14,4 @@ Years ago, I remember personally telling friends and family to "look for the loc
 
 I still believe that wide (and cheap) availability of SSL [is a good and necessary thing][https]. But all HTTPs and the accompanying lock symbol guarantees is that your connection with a sever is encrypted—not that you're safe. 
 
-[https]: {{< ref "/notes/https.md" >}}
+[https]: {{< ref "/essays/https.md" >}}

@@ -1,15 +1,14 @@
 {{ define "main" }}
 
-
   	{{ .Content }}
 
- {{ range (where .Site.RegularPages "Section" "in" "notes links").GroupByDate "2006" }}
+ {{ range (where .Site.RegularPages "Section" "in" "notes essays").GroupByDate "2006" }}
 
 	<h2 class="index__date"><span class="index__date__year">{{ .Key }}</span></h2>
 
     {{ range .Pages }}
     	<article class="index__item">
-			<a class='index__item__title{{ if eq .Section "links" }}--link{{ else }}--note{{ end }}' title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ if eq .Section "notes" }}{{ end }}{{ .Title | title }}</a>
+			<a class='index__item__title{{ if eq .Section "essays" }}--essay{{ else }}--note{{ end }}' title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .Title | title }}</a>
 		</article>
     {{ end }}
     <br><br>

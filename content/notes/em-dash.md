@@ -1,7 +1,7 @@
 ---
 title: "‘Regarding the Em Dash’"
 date: 2018-01-08T20:46:51-05:00
-link: a_link
+link: https://themillions.com/2018/01/regarding-the-em-dash.html
 ---
 
 Adam O’Fallon Price: 

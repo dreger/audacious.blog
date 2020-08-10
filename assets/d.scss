@@ -1,8 +1,29 @@
 @charset "UTF-8";
 
+@font-face {
+  font-family: "IBMPlexSerif";
+  font-weight: 500; 
+  src: url("/fonts/IBMPlexSerif-Medium.woff2") format("woff2"),
+       url("/fonts/IBMPlexSerif-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "IBMPlexSerif";
+  font-weight: 500; 
+  font-style: italic; 
+  src: url("/fonts/IBMPlexSerif-MediumItalic.woff2") format("woff2"),
+       url("/fonts/IBMPlexSerif-MediumItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "IBMPlexSerif";
+  font-weight: 700; 
+  src: url("/fonts/IBMPlexSerif-Bold.woff2") format("woff2"),
+       url("/fonts/IBMPlexSerif-Bold.woff") format("woff");
+}
+
 :root {
   // Colors
   --accent: #FFC200;
+  --accent: #848ccf;
   --text-heading: rgba(0,0,0,.9);
   --text: rgba(0,0,0,.8);
   --faded: #f1f1f1; 
@@ -14,18 +35,21 @@
   // Sizing
   --font-weight-bold: 700; 
   --font-weight-regular: 500; 
-  --font: "Whitney SSm A", "Whitney SSm B", -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, serif; 
+  --font: "IBMPlexSerif", Georgia, serif; 
+  --font-heading: "Whitney SSm A", "Whitney SSm B", -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, serif; 
   --max-width: 44rem; 
   --padding: 4rem; 
   --font-size: 16px;
 }
 
-::selection { background-color: var(--faded); }
+::selection { 
+  background-color: var(--accent); 
+}
 * { box-sizing: border-box; } 
 html { 
   font-size: var(--font-size); 
 }
-a, a:hover, html { cursor: url(/images/cursor.png),auto; }
+a, a:hover, button, button:hover, html { cursor: url(/images/cursor.png),auto; }
 body {
   -webkit-font-smoothing: subpixel-antialiased;
   -webkit-text-size-adjust: 100%;
@@ -44,6 +68,7 @@ strong { font-weight: var(--font-weight-bold); }
 h1, h2, h3 { 
   font-weight: var(--font-weight-bold);
   color: var(--text-heading); 
+  font-family: var(--font-heading); 
 }
 h1 { 
   line-height: 1.25em; 
@@ -66,11 +91,12 @@ ul { list-style: square; padding-left: 1.25rem; }
 li { margin-bottom: .5rem; }
 a {
   color: var(--text); 
-  text-decoration-color: var(--accent); 
+  transition: color .2s ease;
+  // text-decoration-color: var(--faded-line); 
   text-decoration-thickness: 2px; 
 }
 a:hover { 
-  text-decoration-color: var(--text); 
+  color: var(--accent); 
 }
 
 blockquote {
@@ -111,14 +137,24 @@ main {
 }
 
 .header__menu {
-    padding: .5rem; 
-    border-radius: 8px; 
+  padding: .5rem; 
+  border-radius: 8px; 
+  border: 0; 
+  font-size: 1.25rem;
+  background: transparent;
   margin-left: auto; 
+  transition: background-color ease .2s; 
   &:hover {
     background-color: var(--faded); 
   }
 }
 
+.navigation {
+  display: none;
+  font-style: italic; 
+  margin-bottom: 4rem; 
+}
+.navigation--active { display: block; }
 
 
 .logo {
@@ -132,18 +168,14 @@ main {
   height: 30px; 
   border-radius: 8px; 
   margin: 0; 
+  text-indent: -99999px;
   border: 0; 
+  transition: opacity .2s ease;
   &:hover {
     opacity: .5
   }
 }
 
-.navigation {
-  display: none;
-  font-style: italic; 
-  margin-bottom: 4rem; 
-}
-.navigation--active { display: block; }
 
 .headshot {
   max-width: 140px; 
@@ -164,21 +196,24 @@ main {
 .index__date {
   position: relative; 
   border-top: solid 2px var(--faded-line); 
+  font-size: 1rem; 
+  color: var(--faded-text); 
 }
 .index__date__year {
   background: white; 
   position: relative;
   top: -1rem; 
+  top: -.75rem; 
   padding-right: .5rem; 
 }
 .index__item { margin-bottom: 1.5rem; }
 .index__item__title { font-weight: var(--font-weight-bold); }
-.index__item__title--note {
+.index__item__title--essay {
   font-weight: var(--font-weight-bold); 
   &:before {
     content: ""; 
     display: inline-block; 
-    background-image: url(/images/link.svg);
+    background-image: url(/images/lock.svg);
     background-image: url(/images/file-text-heavy.svg);
     background-size: 100% 100%; 
     background-repeat: no-repeat;

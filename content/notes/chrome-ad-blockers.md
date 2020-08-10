@@ -12,7 +12,7 @@ Klint Finley, _Wired_:
 
 > Google is proposing to cut off extensions' access to browsing history and instead offer an interface that can generate instructions for the browser to block or modify certain content, including ads. The catch is that each extension would be limited to 30,000 rules it can apply.
 
-Google runs the largest digital ad platform in the United States, the  world's most popular web browser, and the company [makes almost all of its money from advertisements]({{< ref "/notes/advertisement-farm.md" >}}). Google wants you to see more ads. Their business depends on it, in fact. 
+Google runs the largest digital ad platform in the United States, the  world's most popular web browser, and the company [makes almost all of its money from advertisements]({{< ref "/essays/advertisement-farm.md" >}}). Google wants you to see more ads. Their business depends on it, in fact. 
 
 Therefore, any Google-led changes to Chrome that restrict a user's ability to _block ads_ will inevitably be under intense scrutiny—and for good reason. Taken in the best light, this is Google trying to ensure Chrome continues to be as fast and secure as possible. Taken in the worst, these proposed changes are one more instance of Google using its dominance in search, advertising, and web browsing to benefit Google. 
 

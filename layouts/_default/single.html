@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-    {{ if in "notes pages" .Section }}
+    {{ if in "essays pages" .Section }}
       <h1 class="post__title">{{ .Title | title }}</h1>
     {{ else }}
       <h2>

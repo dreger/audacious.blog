@@ -11,4 +11,4 @@ Matthew Butterick, with some additional analysis on Laura Owen's [deep dive into
 > Which brings us to the $132 million question: who's going to pay $50 every year for this? People dissatisfied with the unlimited free clickbait available elsewhere? Gulls, rubes, and saps? Dogs with credit cards? Mr. Williams has always preferred to frame Medium in gauzy platitudes---what I called his "Bellagio buffet of delicious nonsense". Once upon a time, this seemed like the benign puffery of the ultrawealthy. Billionaire-splaining. Today, as the gulf between the promise of Medium and the reality yawns ever larger, it seems like abject denial. Again---has Mr. Williams actually spent time on Medium recently? If so, it hasn't made a dent. If not, I can hardly blame him. It's awful.
 
 
-[owen]: {{< ref "/links/the-frustrating-history-of-medium.md" >}}
+[owen]: {{< ref "/notes/the-frustrating-history-of-medium.md" >}}

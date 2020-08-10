@@ -1,7 +1,7 @@
 ---
 title: "Facebook Acquires WhatsApp"
 date: 2014-03-18T20:26:03-05:00
-link: a_link
+link: http://blog.whatsapp.com/index.php/2014/03/setting-the-record-straight/
 ---
 
 Interesting choice of words from WhatsApp founder Jan Koum [on the company's blog](http://blog.whatsapp.com/index.php/2014/03/setting-the-record-straight/): 

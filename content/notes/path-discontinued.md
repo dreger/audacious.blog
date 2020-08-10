@@ -22,7 +22,7 @@ Anyhow — adieu, Path. You were the social network we needed but never deserve
 [^1]: Today, the only small (social) networks I find solace in—and enjoy, frankly—are iMessage groups and [iCloud Shared Albums]. 
 
 [icloud shared albums]: https://support.apple.com/kb/ph12068?locale=en_US
-[a better path]: {{< ref "/links/a-better-path" >}}
+[a better path]: {{< ref "/notes/a-better-path" >}}
 [path contacts]: https://www.branded3.com/blog/the-antisocial-network-path-texts-my-entire-phonebook-at-6am/
 [dunbar]: https://en.wikipedia.org/wiki/Dunbar%27s_number
 [giz]: https://gizmodo.com/path-the-doomed-social-network-with-one-great-idea-is-1829106338

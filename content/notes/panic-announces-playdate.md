@@ -29,7 +29,7 @@ John Gruber, *Daring Fireball*:
 
 > Playdate's hardware is not like anything currently available on the market, and Panic says the device isn't meant to compete with other handheld systems either. Instead, the goal is to complement existing systems for those times in between using other devices when you want to play a game.
 
-I [was a fan]({{< ref "/notes/firewatch.md" >}}) of Panic's last foray into video games with *Firewatch*, and I've been following along with their near-release [*Untitled Goose Game*](https://www.macstories.net/news/panic-to-publish-untitled-goose-game-by-house-house-in-early-2019-on-switch-mac-and-pc/), but... actual hardware? Hardware that looks simultaneously cute, innovative, and fun? How interesting. 
+I [was a fan]({{< ref "/essays/firewatch.md" >}}) of Panic's last foray into video games with *Firewatch*, and I've been following along with their near-release [*Untitled Goose Game*](https://www.macstories.net/news/panic-to-publish-untitled-goose-game-by-house-house-in-early-2019-on-switch-mac-and-pc/), but... actual hardware? Hardware that looks simultaneously cute, innovative, and fun? How interesting. 
 
 Playdate is launching in 2020 for $149, and includes a "season" of 12 *different* games, with each title being released one week at a time. As a device meant to complement existing gaming systems, Playdate is intriguing; as a delivery service for new games from *separate* developers, it's innovative.  
 

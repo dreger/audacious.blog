@@ -6,7 +6,7 @@ link: https://m.signalvnoise.com/signal-v-noise-exits-medium/
 
 Final nail, meet coffin. 
 
-Here with the follow-up to their [announcement last September]({{< ref "/links/signal-v-noise-leaving-medium.md" >}}) is CTO and co-founder of Basecamp, David Heinemeier Hansson:
+Here with the follow-up to their [announcement last September]({{< ref "/notes/signal-v-noise-leaving-medium.md" >}}) is CTO and co-founder of Basecamp, David Heinemeier Hansson:
 
 > These days Medium is focused on their membership offering, though. Trying to aggregate writing from many sources and sell a broad subscription on top of that. And it’s a neat model, and it’s wonderful to see Medium try something different. But it’s not for us, and it’s not for Signal v Noise. [...]
 

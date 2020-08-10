@@ -4,7 +4,7 @@ link: https://www.theverge.com/2018/12/6/18128648/microsoft-edge-chrome-chromium
 title: Microsoft Edge is Coming to MacOS
 ---
 
-Tom Warren, *The Verge*, on the news that not only is Microsoft [rebuilding Edge on Chromium]({{< ref "/links/christant-state-of-web-browsers.md" >}}), but they're also bringing it to the Mac:
+Tom Warren, *The Verge*, on the news that not only is Microsoft [rebuilding Edge on Chromium]({{< ref "/notes/christant-state-of-web-browsers.md" >}}), but they're also bringing it to the Mac:
 
 > A lot of web developers use a Mac to develop and test sites, but Edge doesn’t exist there, and it’s currently difficult to test Microsoft’s web rendering engine on a Mac without dual booting Windows. Microsoft is now bringing Edge to the Mac. We understand it’s not a move designed to grab more market share specifically; it’s more about making it easier for developers to test Edge. Microsoft hasn’t committed to a specific date for Edge on the Mac, but we expect to see it later next year.
 

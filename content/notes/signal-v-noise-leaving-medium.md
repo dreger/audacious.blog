@@ -16,7 +16,7 @@ Regardless, this isn't a great sign for Medium. Ever since they [dropped support
 
 I should really just put that in my site's header. 
 
-[medium domains]: {{< ref "/links/medium-kills-off-custom-domains.md" >}}
+[medium domains]: {{< ref "/notes/medium-kills-off-custom-domains.md" >}}
 
 [svn]:https://m.signalvnoise.com/venture-capital-is-going-to-murder-medium-656cbccf4829#.af7jxaltt
 [slack]: {{< ref "slack-leaves-medium.md" >}}

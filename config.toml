@@ -8,7 +8,7 @@ publishDir = "docs"
 disableKinds = ['RSS', 'taxonomy', 'taxonomyTerm']
 [permalinks]
 	notes = "/:year/:filename"
-	links = "/:year/:filename"
+	essays = "/:year/:filename"
 	pages = "/:filename"
 
 [sitemap]

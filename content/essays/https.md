@@ -11,7 +11,7 @@ However, for the past few weeks, spurred on by Google’s move to [mark HTTP-onl
 
 > So now Google points a gun at the web and says "Do as we say or we'll tell users your site is not secure." What they're saying doesn't stand up to a basic bullshit-test. There's nothing insecure about my site. Okay I suppose it's *possible* you could get hurt using it, I'll grant you that. But I could get hurt getting up out of my chair and going into the kitchen to refill my coffee cup. Life is insecure. When Google says my old site is insecure what they really mean is "This is our platform now, and you do as we say or your site won't work." I don't believe for a minute that Google's motivation is protecting users. They seem to believe they can confuse users (they can) and that means they can do anything to the web they like. I suppose they can do that too. But it doesn't mean the web will cooperate. Imho, it won't.
 
-[dreger chrome]: {{< ref "/links/this-page-is-not-secure.md" >}}
+[dreger chrome]: {{< ref "/notes/this-page-is-not-secure.md" >}}
 [winer http attack]: http://scripting.com/2018/02/23/174914.html
  
 [Mr. Winer][web safe], again, earlier this month: 
@@ -50,8 +50,8 @@ However, the last few weeks have left me scratching my head. I don’t disagree 
 I'll sidestep the fact Mr. Winer has "<a href='http://scripting.com/2018/02/23/174914.html#a180341'>hundreds of domains</a>," which, honestly, sounds like it <em>would</em> be a nightmare to get all up and running with HTTPS. For most everyone else, people who have one or a few domains, the complexities of enabling HTTPS across their properties is far more manageable. 
 </aside>
 
-[dreger ad farm]: {{< ref "/notes/advertisement-farm.md" >}}
-[dreger amp]: {{< ref "/links/amp-in-email.md" >}}
+[dreger ad farm]: {{< ref "/essays/advertisement-farm.md" >}}
+[dreger amp]: {{< ref "/notes/amp-in-email.md" >}}
 
 Regardless of what Chrome, Firefox, or Safari do, HTTPS is good for the web, and more sites should enable it for their content. Another way to put it: HTTPS is like fluoride. Fluoride is a [proven, safe chemical][cdc] that we add to water to help prevent cavities. Do you need it, if you consistently brush and floss twice a day? Ostensibly, no, but if there’s a way to help protect your teeth *in spite* of what is otherwise entirely reliant on your own self discipline and understanding of the risks, why wouldn’t you take advantage of it? The World Wide Web is different today than it was when Mr. Winer first created the content he now is struggling to find reason to provide over HTTPS, but that’s not the visitor’s fault. It’s not even his — yet. 
 

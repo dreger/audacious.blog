@@ -21,5 +21,5 @@ I really [wanted them to pull through][af tt]. Telltale had some of the best art
 
 [verge tt]: https://www.theverge.com/2018/3/20/17130056/telltale-games-developer-layoffs-toxic-video-game-industry
 [tt st]: https://www.polygon.com/tv/2018/6/13/17460834/netflix-telltale-minecraft-story-mode-stranger-things-game
-[af tt]: {{< ref "/links/toxic-telltale.md" >}}
+[af tt]: {{< ref "/notes/toxic-telltale.md" >}}
 [kb]: https://www.brunerhouse.com/blog/2018/9/21/telltale-closure

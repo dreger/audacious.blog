@@ -14,7 +14,7 @@ If you follow the information security crowd, you'll quickly pick up on a genera
 
 However, whenever I see Signal come up, it really does seem to live up to that "gold standard" label. It's not perfect, and the app has some problems, but the encryption code is peer reviewed and open source, and it's trusted by some of the biggest public targets in the world. The United States Senate [uses it][senate], and, famously, Signal [is Edward Snowden's preferred messaging app][snowden].
 
-[senate]: {{< ref "/links/senate-approves-signal.md" >}}
+[senate]: {{< ref "/notes/senate-approves-signal.md" >}}
 [snowden]: https://mobile.twitter.com/snowden/status/778592275144314884
 
 Sidestepping my own cynicism that comes out whenever "loved app X takes large investment from vc/company Y," it's heartening to see the Signal team get a little structure and financial breathing room. I hope the money goes to fund further development and stability of the service, while avoiding the distractions or gimmicky features — like stories — that every messaging app seems to have these days. Signal is not like other messaging apps, and that's a good thing. The world needs an incredibly secure, focused messaging protocol, and Signal's now got the resources to continue building just that.  

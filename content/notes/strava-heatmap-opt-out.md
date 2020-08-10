@@ -8,4 +8,4 @@ Remember how Strava's anonymized heatmap [accidentally revealed the locations an
 
 Yet, these sorts of programs should really be opt-in, not opt-out. I'm not against using data to do novel and interesting things, but if your company wants to display my data in some extraneous endeavor, it's on you to convince me why it's worthwhile, not me to remember to tell you to stop. 
 
-[af]: {{< ref "/notes/the-privacy-we-give-away.md" >}} 
+[af]: {{< ref "/essays/the-privacy-we-give-away.md" >}} 

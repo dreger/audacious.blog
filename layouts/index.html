@@ -1,31 +1,9 @@
 {{ define "main" }}
 
-<!-- 	<figure class="headshot">
-	  <img class="shadow" alt="my face #vscogirl" src="/images/kqd.png"  />
-	  <figcaption>My face.</figcaption>
-	</figure> -->
-
-
 
   	{{ .Content }}
 
-
-<!-- 
-  <div class="icons">
-	<a class="icon" href="https://audaciousfox.net">
-		<span class="shadow icon__image icon__image--af"></span>
-		<span class="icon__text">AF, my blog</span>
-	</a>
-
-	<a class="icon" href="https://itunes.apple.com/us/app/id1231744746">
-		<span class="shadow icon__image icon__image--edit"></span>
-		<span class="icon__text">Edit, my app</span>
-	</a>
-</div> -->
-
-
-	<!-- <p>(Interested in a newsletter on this stuff? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGrd4Jff8LAF6FbRAar1lY9-QIQc_qQEqJ_amgNiZx5ZAAkQ/viewform">Join here</a>.)</p> -->
-<p><em>Notes and links on people, product, and punctuation. Updated multiple times a month, most of the time. <a href="/masthead">More...</a></em></p>
+<p><em>Notes and links on people, products, and punctuation. Updated several times per month, most of the time. <a href="/masthead">More...</a></em></p>
 <br>
 
  {{ range (where .Site.RegularPages "Section" "in" "notes links").GroupByDate "2006" }}
@@ -35,8 +13,6 @@
     {{ range .Pages }}
     	<article class="index__item">
 			<a class='index__item__title{{ if eq .Section "links" }}--link{{ else }}--note{{ end }}' title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ if eq .Section "notes" }}{{ end }}{{ .Title | title }}</a>
-
-			<!-- <br><span class="post__summary">{{ .Summary | truncate 120 }}</span> -->
 		</article>
     {{ end }}
     <br><br>

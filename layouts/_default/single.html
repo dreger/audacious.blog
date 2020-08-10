@@ -3,17 +3,17 @@
 {{ end }}
 
 {{ define "main" }}
-
-    
-
-  	{{ if in "notes pages" .Section }}
-    <h1 class="post__title">{{ .Title | title }}</h1>
+    {{ if in "notes pages" .Section }}
+      <h1 class="post__title">{{ .Title | title }}</h1>
     {{ else }}
-    <h2><a href='{{ .Params.link }}'>{{ .Title | title }}</a></h2>
+      <h2>
+        {{ if isset .Params "link" }}
+          <a href="{{ .Params.link }}">{{ .Title | title }}</a>
+        {{ else }}
+          {{ .Title | title }}
+        {{ end }}
+      </h2>
     {{ end }}
-
-
-    <!-- {{ .Summary }} -->
 
   	{{ .Content }}
 
@@ -23,8 +23,6 @@
       <hr>
   
       {{ if .PrevPage }}<p><strong>Older</strong><br><a href='{{ strings.TrimSuffix "/" .PrevPage.Permalink }}'>{{.PrevPage.Title | title}}</a></p>{{ end }}
-
       {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title | title}}</a></div>{{ end }}
     {{ end }}
-
 {{ end }}

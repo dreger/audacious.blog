@@ -66,17 +66,16 @@ ul { list-style: square; padding-left: 1.25rem; }
 li { margin-bottom: .5rem; }
 a {
   color: var(--text); 
-  // text-decoration: none; 
   text-decoration-color: var(--accent); 
   text-decoration-thickness: 2px; 
-  // border-bottom: 2px solid var(--faded-line);
 }
 a:hover { 
   text-decoration-color: var(--text); 
 }
 
 blockquote {
-  margin-left: 1.5rem; 
+  margin-left: 1.5rem;
+  font-style: italic;
 }
 
 hr { margin: 2rem 0; height: 2px; background: var(--faded-line); border: 0; }
@@ -212,7 +211,8 @@ main {
     --max-width: 100%; 
   }
   main {
-    margin: 0 0 3rem;
+    margin: 0;
+    padding-bottom: 6rem;
   }
   .index__item__title--note:before {
     top: 3px; 

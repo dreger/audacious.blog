@@ -161,7 +161,16 @@ main {
 }
 
 
-
+.index__date {
+  position: relative; 
+  border-top: solid 2px var(--faded-line); 
+}
+.index__date__year {
+  background: white; 
+  position: relative;
+  top: -1rem; 
+  padding-right: .5rem; 
+}
 .index__item { margin-bottom: 1.5rem; }
 .index__item__title { font-weight: var(--font-weight-bold); }
 .index__item__title--note {
@@ -209,6 +218,7 @@ main {
   :root {
     --padding: 1rem; 
     --max-width: 100%; 
+    --font-size: 18px; 
   }
   main {
     margin: 0;

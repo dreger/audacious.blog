@@ -27,3 +27,6 @@ gen:
 
 serve: 
 	hugo serve -w --disableFastRender
+
+serve-drafts: 
+	hugo serve -w --disableFastRender --buildDrafts

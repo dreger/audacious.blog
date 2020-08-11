@@ -33,7 +33,8 @@
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
   <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
-  <!-- <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/7792012/css/fonts.css" /> -->
+  <!-- <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/6966412/css/fonts.css" /> -->
+
   
   {{ $style := resources.Get "d.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">

@@ -222,6 +222,7 @@ main {
   font-weight: var(--font-weight-bold); 
   display: block; 
 }
+.index__item__title--subtle { font-weight: var(--font-weight-regular); }
 .index__item__meta {
   font-size: .875rem; 
 }
@@ -304,8 +305,5 @@ main {
   main {
     margin: 0;
     padding-bottom: 6rem;
-  }
-  .index__item__title--note:before {
-    top: 3px; 
   }
 }

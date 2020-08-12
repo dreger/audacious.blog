@@ -14,7 +14,22 @@
         
             {
               
-                "title": "▲︎ Medium Testing New Visual Customization",
+                "title": "▲︎ WFH",
+                 
+          "url": "https://audacious.blog/2020/wfh/",
+                "date_published": "2020-08-02T22:02:33-04:00",
+                "id": "https://audacious.blog/2020/wfh/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eUp between 6–6:30. Drink a full glass of water, take a shower, get dressed. Make the bed; \u003ca href=\"https://www.artofmanliness.com/articles/how-to-make-a-bed-using-hospital-corners/\"\u003ehospital corners\u003c/a\u003e. Put on tennis shoes. I tried slippers for a while, but a standing desk calls for extra arch support.\u003c/p\u003e\n\u003cp\u003eDownstairs, start the coffee. 50 grams for about 6 cups. It\u0026rsquo;s a weaker brew, but that means I can have a few cups without getting twitchy. Water into the stovetop pot. Add oats. Make breakfast. (How have more people not experienced the awesomeness of oats, greek yogurt, and a little brown sugar?)\u003c/p\u003e\n\u003cp\u003eFamily time, morning talks, good vibes. It\u0026rsquo;s about 8:00. Another 10-15 minutes, then I’ll grab a large cup of coffee and head upstairs to the office.\u003c/p\u003e\n\u003cp\u003eCrack the windows, let sunshine stream in.\u003c/p\u003e\n\u003cp\u003e8:15-45 is my chance to parse the day. I start with a beat of silence and a prayer, then I take a large sip of coffee and flick open a variety of windows.\u003c/p\u003e\n\u003cp\u003eFirst up, Slack and email.\u003c/p\u003e\n\u003cp\u003e90% of my Slack channels are muted. My notifications are off by default, which helps me treat Slack more like email and less like a 90s pager. I scan all unread channels and DMs, then throw anything warranting a followup into Starred.\u003c/p\u003e\n\u003cp\u003eEmail is next. Through years of filter creation, my email is sort of like the Millenium Falcon—filled with really old stuff but tuned \u003cem\u003eexactly\u003c/em\u003e how I like it. Everything in my inbox is signal.\u003c/p\u003e\n\u003cp\u003eWithin several minutes, Slack and email are completely dispatched. Now to the calendar. What am I attending today? Tomorrow? What information do I need to have ready? Look at a handful of dashboards. How’s the bug count this week? Which teams have key members on PTO? Did the last 24 hours of pulse metrics look like I expected?\u003c/p\u003e\n\u003cp\u003eClose the windows, because the sun is doing its thing and warming up the Earth.\u003c/p\u003e\n\u003cp\u003eVisually, my calendar is stuffed. But a third of those chunky boxes are meetings with myself. Margin time, at least 1-2 hours every single day. It’s here that I work on my Most Important Things.\u003c/p\u003e\n\u003cp\u003eWhat are the Most Important Things? I have a simple system: take the top 2-4 most important things I could do this week and put them on a flashcard. The rest of the day will be about relentlessly attempting to complete everything on this list. I\u0026rsquo;ll usually get through about half, while adding 5-10 new items along the way. Tomorrow I’ll prune it back down to the top 2-4. Rinse, wash, repeat.\u003c/p\u003e\n\u003cp\u003e(What about a to-do app? I use one, but I use it differently than most. The only things that go in here are commitments I’ve made to other people. My to-do app is my your-word-means-something app.)\u003c/p\u003e\n\u003cp\u003ePop downstairs, grab some snuggles from the kiddo, refill the coffee, and climb back upstairs.\u003c/p\u003e\n\u003cp\u003eThe rest of the day oscillates between meetings and my Most Important Things. For meetings, I have a yellow legal pad and a .5mm rollerball. I used to roll with a .38mm, but the .5 feels way more messy and therefore better. Once the day is wrapped, I go back through every page of notes and move things either into my to-do app or onto my calendar. I\u0026rsquo;ve considered an iPad for this daylong writing, but I like paper. Again, the mess is what makes it great.\u003c/p\u003e\n\u003cp\u003eFinally, I journal for 5-10 minutes. This is some of the most important writing I do each day. I focus on any decisions I made and my rationale for making them.\u003c/p\u003e\n\u003cp\u003eDownstairs, dinner, books, bed, and hope to be just a little bit better tomorrow.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for WFH\" href='https://audacious.blog/2020/wfh'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+               
+                "title": "Medium Testing New Visual Customization",
+                "external_url": "https://blog.medium.com/a-more-expressive-medium-483e567b19ff",
                  
           "url": "https://audacious.blog/2020/medium-adds-themes/",
                 "date_published": "2020-08-02T15:50:01-04:00",
@@ -27,8 +42,9 @@
         
         , 
             {
-              
-                "title": "▲︎ On Having Full RSS Feeds",
+               
+                "title": "On Having Full RSS Feeds",
+                "external_url": "https://zacs.site/blog/maybe-a-good-idead.html",
                  
           "url": "https://audacious.blog/2020/full-rss-feeds/",
                 "date_published": "2020-04-15T20:18:33-04:00",
@@ -41,8 +57,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Google Spins the Wheel on What to Call Hangouts, Again",
+               
+                "title": "Google Spins the Wheel on What to Call Hangouts, Again",
+                "external_url": "https://www.theverge.com/2020/4/9/21215588/google-chat-hangouts-meet-g-suite-name-change-rebranding",
                  
           "url": "https://audacious.blog/2020/google-rebrands-hangouts/",
                 "date_published": "2020-04-09T20:19:13-04:00",
@@ -55,8 +72,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Mary Dash's Guide to Plain Language",
+               
+                "title": "Mary Dash's Guide to Plain Language",
+                "external_url": "https://plainlanguage.gov/resources/articles/dash-writing-tips/",
                  
           "url": "https://audacious.blog/2020/mary-dash-plain-language/",
                 "date_published": "2020-03-18T11:12:48-04:00",
@@ -69,8 +87,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Susan Fowler’s Year in Review",
+               
+                "title": "Susan Fowler’s Year in Review",
+                "external_url": "https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019",
                  
           "url": "https://audacious.blog/2019/fowler-year-in-review/",
                 "date_published": "2019-12-16T20:00:47-05:00",
@@ -84,7 +103,78 @@
         , 
             {
               
-                "title": "▲︎ NetNewsWire 5.0 Released",
+                "title": "▲︎ Indifference",
+                 
+          "url": "https://audacious.blog/2019/indifference/",
+                "date_published": "2019-12-17T00:00:00+00:00",
+                "id": "https://audacious.blog/2019/indifference/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eLately I\u0026rsquo;ve been thinking about Elie Wiesel\u0026rsquo;s quote on love and hate. \u0026ldquo;The opposite of love is not hate, it\u0026rsquo;s indifference\u0026rdquo; he says.\u003c/p\u003e\n\u003cp\u003eIn software circles, we talk a lot about trying to create products people love. Like, really love. Love to the point you can\u0026rsquo;t wait to tell your friends. You\u0026rsquo;ve likely experienced this—an app so good you were excited to bring it into someone\u0026rsquo;s life.\u003c/p\u003e\n\u003cp\u003eLogically then, if the goal is Love, a product team might try hard to avoid making changes or additions that people hate. But more than hate, I think the bigger risk is making something to which people are indifferent.\u003c/p\u003e\n\u003cp\u003eWhy not focus on hate? For starters, eliciting hate is actually quite hard to do if the product team is competent. Even talking with your customers once a week should steer you clear of danger.\u003c/p\u003e\n\u003cp\u003eIndifference on the other hand is a product killer. Building something that doesn\u0026rsquo;t even register an emotional response eliminates the opportunity to learn. And a product team that cannot quickly learn—and then iterate to learn again—is a team that will slowly bring growth and progress to a halt.\u003c/p\u003e\n\u003cp\u003eSo when we think about the big risks of building products, we should consider indifference towards the top of the list. You can learn from love or hate. But the moment you sense indifference from your customers you need to reconsider the core problem you\u0026rsquo;re trying to solve.\u003c/p\u003e\n\u003cp\u003eIf you don\u0026rsquo;t, I can promise you\u0026rsquo;ll hate what happens next—even if your customers don\u0026rsquo;t care.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Indifference\" href='https://audacious.blog/2019/indifference'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+              
+                "title": "▲︎ Weekend Tweaks",
+                 
+          "url": "https://audacious.blog/2019/forgive-the-tests/",
+                "date_published": "2019-12-14T20:44:22-05:00",
+                "id": "https://audacious.blog/2019/forgive-the-tests/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eI\u0026rsquo;m making a handful of changes to the site today, so please forgive any RSS oddities. Thanks.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Weekend Tweaks\" href='https://audacious.blog/2019/forgive-the-tests'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+              
+                "title": "▲︎ Don’t Hide the Date",
+                 
+          "url": "https://audacious.blog/2019/dont-hide-the-date/",
+                "date_published": "2019-12-14T08:30:46-05:00",
+                "id": "https://audacious.blog/2019/dont-hide-the-date/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eI\u0026rsquo;ve noticed an interesting (growing?) trend over the past few years. Some bloggers (or their designers) choose to hide \u003cem\u003ewhen\u003c/em\u003e a post was written. I usually see this via dates excluded from the URL and/or the page itself. Why they\u0026rsquo;re doing this, I\u0026rsquo;m not sure.\u003c/p\u003e\n\u003cp\u003eFor URLs, I think dates are useful. Take this URL for example:\u003c/p\u003e\n\u003cp\u003e/2019/dont-hide-the-date\u003c/p\u003e\n\u003cp\u003eJust looking at it, you have a sense of when it was written and what it might be about. Instantly. That\u0026rsquo;s a good user experience.\u003c/p\u003e\n\u003cp\u003e(My favorite URL approach is from sites like Medium, where they opt for the questionable /title-GI83R1SH article ID at the end of their post URLs which manages to thread the needle of being both impossible to guess and devoid of any date context. I call this URL style post-modern, because what starts out understandable quickly turns convoluted.)\u003c/p\u003e\n\u003cp\u003eBut I understand not wanting extra cruft in your URLs. Having a clean website.com/post-title structure is attractive to my inner minimalist. Going title-only also makes it easier to recall the URL of a once-visited post, since you\u0026rsquo;re more likely to guess the title of an article than the title and date.\u003c/p\u003e\n\u003cp\u003eThen there\u0026rsquo;s the date on the page itself. I generally see a lot of designs use the smallest type size or the faintest gray color possible—if they even include the date at all. I think that\u0026rsquo;s the wrong way to go. Whether the post is timely or timeless, dates provide a sense of place and serve as an important piece of context for your readers.\u003c/p\u003e\n\u003cp\u003eYou don\u0026rsquo;t have to overemphasize the \u003cem\u003ewhen\u003c/em\u003e something was written, but please don\u0026rsquo;t leave it out completely.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Don’t Hide the Date\" href='https://audacious.blog/2019/dont-hide-the-date'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+              
+                "title": "▲︎ Treat Pain Points as Debt",
+                 
+          "url": "https://audacious.blog/2019/pain-snowball-method/",
+                "date_published": "2019-12-14T00:00:00+00:00",
+                "id": "https://audacious.blog/2019/pain-snowball-method/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eDave Ramsey has this great method for paying off debt where you start with your highest interest loan, focus all of your extra income on that payment, and then once you’ve paid it off you snowball that payment into the minimum payment of your next highest interest debt.\u003c/p\u003e\n\u003cp\u003eI think you can do something similar for products and user experience. Let’s call it The Pain Snowball Method.\u003c/p\u003e\n\u003cp\u003eStart by taking inventory of all the customer pain that’s been reported over the past month. Prioritize it based on what causes pain the most often. Take the top three reported pain points and dedicate time every week to finding solutions. Fix one of them, and then roll that time into the remaining two pain points until all three are resolved. Do it again next month.\u003c/p\u003e\n\u003cp\u003eAs your product grows, not every customer will use every feature. In order to continue adding value for those customers whose needs are met, dedicate time to fixing pain just as you do to adding features.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Treat pain points as debt\" href='https://audacious.blog/2019/pain-snowball-method'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+              
+                "title": "▲︎ Hierarchy of Product Team Needs",
+                 
+          "url": "https://audacious.blog/2019/product-team-needs/",
+                "date_published": "2019-12-10T00:00:00+00:00",
+                "id": "https://audacious.blog/2019/product-team-needs/",
+                "author": {
+                  "name" : "K.Q. Dreger"
+                },
+                "content_html": "\u003cp\u003eI was on a run and thinking about Maslow’s hierarchy of needs and how a force ranked list of needs could apply to product teams. Here’s my attempt. Let’s walk through the levels:\u003c/p\u003e\n\u003c!-- raw HTML omitted --\u003e\n\u003ch2 id=\"level-one-talk-with-your-customers-daily\"\u003eLevel one: talk with your customers daily.\u003c/h2\u003e\n\u003cp\u003eYou simply won’t have enough information to make good product decisions if you’re not talking with your customers every day. Call them. Email them. Ask them what they like, what they don’t like, what they wish your product could do, where they’re indifferent. Would they recommend your product to someone else? Who? Why not?\u003c/p\u003e\n\u003ch2 id=\"level-two-build-and-share-prototypes\"\u003eLevel two: build and share prototypes.\u003c/h2\u003e\n\u003cp\u003eYou have customer feedback, and now it’s time to create solutions for their problems. A good product team should be able to quickly prototype (code, Figma, whatever) ideas that are Just Enough™ to demonstrate the value and begin to unearth usability issues. Prototypes should be lightweight and shareable with a single link.\u003c/p\u003e\n\u003ch2 id=\"level-three-implement-lightweight-metrics\"\u003eLevel three: implement lightweight metrics.\u003c/h2\u003e\n\u003cp\u003eYou’ve built some stuff and now it’s time to measure whether it worked. The metrics rabbit hole is rife with products and terms and general misdirection about what you truly need. Do a lot of reading, ignore most of it. A maturing product team does need some form of analytics and metrics to shore up what you’re hearing from customers—but you do not need to spend tens of thousands of dollars and two months integrating with one of the huge product analytics players right out of the gate. Not yet.\u003c/p\u003e\n\u003cp\u003eAt this level, you only need to answer two questions: (a) what do we track to tell if our stuff is working and (b) how will we report on this data. For (a), basic things like page views, clicks, and lower level database fields can help indicate behavior (Have they turned on feature X? Set a date field with the date they turn it on.) For (b), you’ll either need to have direct access to the database and some SQL knowledge (it’s not hard to get the basics) or a web-based tool that simplifies the reporting for you. There are a lot of tools out there, just be extremely judicious about giving database access to a third party.\u003c/p\u003e\n\u003ch2 id=\"level-four-have-a-process-for-team-self-improvement\"\u003eLevel four: have a process for team self-improvement.\u003c/h2\u003e\n\u003cp\u003eDing. Welcome to level four. Enlightenment time. At this point, you should be completing enough create → ship → research cycles that recurring issues become apparent—especially if you’re looking at multiple product teams. Once you’ve identified these problem areas, you need to set aside time for growth and reflection. If you don’t, these small pains will become chronic injuries.\u003c/p\u003e\n\u003cp\u003eCompanies that get stuck at this stage will hemorrhage good people. This is because good product people are used to improving through iteration, and they won’t hang around a company that doesn’t treat the team as its most important product. (Side note: your company is your most important product.) Self-improvement at this level can be as simple as design reviews, a book club, or team retrospectives. Just set aside time and do it.\u003c/p\u003e\n\u003ch2 id=\"level-five-refine-delivery-release-and-marketing-ops\"\u003eLevel five: refine delivery, release, and marketing ops.\u003c/h2\u003e\n\u003cp\u003eThis is the last one I could think of, and it’s all about making sure the people you’ve got doing the things on the bottom four levels are able to spend as much time there as possible. However, once you reach a certain size I think having a team or members of the team assisting in the delivery, release, and marketing of the things you ship can be a big time saver.\u003c/p\u003e\n\u003cp\u003eRegardless what you call it (product ops, project manager, etc.), it’s the acknowledgment that if you want product people talking to customers, creating prototypes, and looking at the data, then anything they do that aren’t those things is hurting the lower levels of the pyramid.\u003c/p\u003e\n\u003cp\u003eWhat’s not here?\u003c/p\u003e\n\u003cp\u003eA lot. I’m certain this isn’t one-size fits all. But in general, I think if you pour time into one of these levels without an equal or greater amount of effort going into the level below it, you’re setting yourself up for problems later on.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Hierarchy of product team needs\" href='https://audacious.blog/2019/product-team-needs'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
+            }
+        
+        , 
+            {
+               
+                "title": "NetNewsWire 5.0 Released",
+                "external_url": "https://inessential.com/2019/08/26/netnewswire_5_0_now_available",
                  
           "url": "https://audacious.blog/2019/netnewswire-5/",
                 "date_published": "2019-09-02T12:58:18-04:00",
@@ -97,8 +187,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Replying to Emails Like a CEO Takes the Pain Out of Writing Email",
+               
+                "title": "Replying to Emails Like a CEO Takes the Pain Out of Writing Email",
+                "external_url": "https://www.buzzfeednews.com/article/katienotopoulos/i-tried-emailing-like-your-boss",
                  
           "url": "https://audacious.blog/2019/email-like-a-ceo/",
                 "date_published": "2019-08-31T21:14:06-04:00",
@@ -111,8 +202,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Genius Claims to Have Proof That Google Is Lifting Lyrics for Its Search Results",
+               
+                "title": "Genius Claims to Have Proof That Google Is Lifting Lyrics for Its Search Results",
+                "external_url": "https://www.wsj.com/articles/lyrics-site-genius-com-accuses-google-of-lifting-its-content-11560677400",
                  
           "url": "https://audacious.blog/2019/genius-google-lyrics/",
                 "date_published": "2019-06-17T21:33:15-04:00",
@@ -125,8 +217,9 @@
         
         , 
             {
-              
-                "title": "▲︎ ‘What I Learned Trying to Secure Congressional Campaigns’",
+               
+                "title": "‘What I Learned Trying to Secure Congressional Campaigns’",
+                "external_url": "https://idlewords.com/2019/05/what_i_learned_trying_to_secure_congressional_campaigns.htm",
                  
           "url": "https://audacious.blog/2019/ceglowski-securing-congressional-campaigns/",
                 "date_published": "2019-06-05T22:43:27-04:00",
@@ -139,8 +232,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Updated App Store Review Guidelines Prohibit Apps in Kids Category From Including Third-Party Ads or Analytics",
+               
+                "title": "Updated App Store Review Guidelines Prohibit Apps in Kids Category From Including Third-Party Ads or Analytics",
+                "external_url": "https://developer.apple.com/news/?id=06032019j",
                  
           "url": "https://audacious.blog/2019/updated-app-store-guidelines-to-protect-kids/",
                 "date_published": "2019-06-04T21:25:43-04:00",
@@ -153,8 +247,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Panic Announces Playdate, Their First Video Game System Set to Launch in 2020 for $149 With 12 Games That Automatically Release on a Weekly Basis",
+               
+                "title": "Panic Announces Playdate, Their First Video Game System Set to Launch in 2020 for $149 With 12 Games That Automatically Release on a Weekly Basis",
+                "external_url": "https://play.date/media/",
                  
           "url": "https://audacious.blog/2019/panic-announces-playdate/",
                 "date_published": "2019-05-23T21:06:48-04:00",
@@ -167,8 +262,9 @@
         
         , 
             {
-              
-                "title": "▲︎ You’re Triggering Alexa More Often Than You Think",
+               
+                "title": "You’re Triggering Alexa More Often Than You Think",
+                "external_url": "https://www.washingtonpost.com/technology/2019/05/06/alexa-has-been-eavesdropping-you-this-whole-time/",
                  
           "url": "https://audacious.blog/2019/triggering-alexa-on-accident/",
                 "date_published": "2019-05-20T21:00:15-04:00",
@@ -181,8 +277,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Jumbo Is Your Digital Privacy Assistant",
+               
+                "title": "Jumbo Is Your Digital Privacy Assistant",
+                "external_url": "https://blog.jumboprivacy.com/jumbo-launches-today.html",
                  
           "url": "https://audacious.blog/2019/jumbo-privacy-assistant/",
                 "date_published": "2019-05-19T13:54:51-04:00",
@@ -195,8 +292,9 @@
         
         , 
             {
-              
-                "title": "▲︎ ‘Typography 2020: A Special Listicle for America’",
+               
+                "title": "‘Typography 2020: A Special Listicle for America’",
+                "external_url": "https://practicaltypography.com/typography-2020.html",
                  
           "url": "https://audacious.blog/2019/butterick-typography-2020/",
                 "date_published": "2019-04-19T15:00:40-04:00",
@@ -209,8 +307,9 @@
         
         , 
             {
-              
-                "title": "▲︎ The 3D Models That Will Help Rebuild Notre-Dame",
+               
+                "title": "The 3D Models That Will Help Rebuild Notre-Dame",
+                "external_url": "https://www.gpsworld.com/3d-mapping-of-notre-dame-will-help-restoration/",
                  
           "url": "https://audacious.blog/2019/notre-dame-assassins-creed/",
                 "date_published": "2019-04-19T12:59:14-04:00",
@@ -223,8 +322,9 @@
         
         , 
             {
-              
-                "title": "▲︎ Medium, Seven Years Later",
+               
+                "title": "Medium, Seven Years Later",
+                "external_url": "https://practicaltypography.com/billionaires-typewriter.html#update-another-three-years-on",
                  
           "url": "https://audacious.blog/2019/butterick-on-mediums-history/",
                 "date_published": "2019-04-13T12:09:19-04:00",
@@ -237,8 +337,9 @@
         
         , 
             {
-              
-                "title": "▲︎ The Long, Complicated, and Extremely Frustrating History of Medium",
+               
+                "title": "The Long, Complicated, and Extremely Frustrating History of Medium",
+                "external_url": "https://www.niemanlab.org/2019/03/the-long-complicated-and-extremely-frustrating-history-of-medium-2012-present/",
                  
           "url": "https://audacious.blog/2019/the-frustrating-history-of-medium/",
                 "date_published": "2019-04-13T12:02:12-04:00",
@@ -251,8 +352,9 @@
         
         , 
             {
-              
-                "title": "▲︎ ‘Letter Boxed’ by the New York Times",
+               
+                "title": "‘Letter Boxed’ by the New York Times",
+                "external_url": "https://www.polygon.com/2019/2/1/18205854/new-york-times-crossword-letter-boxed-puzzle-game",
                  
           "url": "https://audacious.blog/2019/nyt-letter-boxed/",
                 "date_published": "2019-02-09T15:20:21-05:00",
@@ -265,8 +367,9 @@
         
         , 
             {
-              
-                "title": "▲︎ ‘Can a 44-Year-Old Man Cut It in the Premier League?’",
+               
+                "title": "‘Can a 44-Year-Old Man Cut It in the Premier League?’",
+                "external_url": "http://www.espn.com/espn/feature/story/_/id/22705066/chris-jones-takes-medical-everton",
                  
           "url": "https://audacious.blog/2019/espn-jones-everton/",
                 "date_published": "2019-02-09T14:31:37-05:00",
@@ -275,90 +378,6 @@
                   "name" : "K.Q. Dreger"
                 },
                 "content_html": "\u003cp\u003eChris Jones, \u003cem\u003eESPN\u003c/em\u003e, attempted to complete the medical and fitness review required of all Everton F.C. players. It did not go well.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eLet\u0026rsquo;s get this out of the way. I\u0026rsquo;m supposed to say that my greatest source of pride is my children, but they haven\u0026rsquo;t really done anything that special. They\u0026rsquo;re regular kids, and there are billions of those. My greatest source of pride is that I still play competitive football at age 44. There are players in my league as young as 18. I\u0026rsquo;ve privately hoped that one day I\u0026rsquo;ll play alongside my youngest son, who is 10. Eight more years. That makes 52.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eLuckily, I\u0026rsquo;m a goalkeeper. Unluckily, I\u0026rsquo;m short and fat. I\u0026rsquo;m 5-foot-10 and 214 pounds. I worried that Everton wouldn\u0026rsquo;t have a kit that fit me, and I searched for a comparably sized player. In other words, I looked up Wayne Rooney. He\u0026rsquo;s a similar height but 30 pounds lighter. I warned Everton in advance that they would be outfitting Wayne Rooney\u0026hellip; if Wayne Rooney were pregnant with twins.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e(Hat tip PDL.)\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for ‘Can a 44-Year-Old Man Cut It in the Premier League?’\" href='https://audacious.blog/2019/espn-jones-everton'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-              
-                "title": "▲︎ Proposed Changes to Chrome Would Hamper Ad Blockers",
-                 
-          "url": "https://audacious.blog/2019/chrome-ad-blockers/",
-                "date_published": "2019-01-26T09:11:05-05:00",
-                "id": "https://audacious.blog/2019/chrome-ad-blockers/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eKlint Finley, \u003cem\u003eWired\u003c/em\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eGoogle says the proposal is just, well, a proposal. \u0026ldquo;These changes are in the design process,\u0026rdquo; a Google spokesperson said in a statement. The company is \u0026ldquo;working with extension developers to make sure their extensions continue to work,\u0026rdquo; the spokesperson said.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eOstensibly, the changes are designed to improve the security and performance of Chrome and Chromium. For example, Chrome extensions now can access your browsing history. That means a bad actor could offer an ad blocker that spies on you.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eGoogle is proposing to cut off extensions\u0026rsquo; access to browsing history and instead offer an interface that can generate instructions for the browser to block or modify certain content, including ads. The catch is that each extension would be limited to 30,000 rules it can apply.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eGoogle runs the largest digital ad platform in the United States, the  world\u0026rsquo;s most popular web browser, and the company \u003ca href=\"https://audacious.blog/2017/advertisement-farm/\"\u003emakes almost all of its money from advertisements\u003c/a\u003e. Google wants you to see more ads. Their business depends on it, in fact.\u003c/p\u003e\n\u003cp\u003eTherefore, any Google-led changes to Chrome that restrict a user\u0026rsquo;s ability to \u003cem\u003eblock ads\u003c/em\u003e will inevitably be under intense scrutiny—and for good reason. Taken in the best light, this is Google trying to ensure Chrome continues to be as fast and secure as possible. Taken in the worst, these proposed changes are one more instance of Google using its dominance in search, advertising, and web browsing to benefit Google.\u003c/p\u003e\n\u003cp\u003eThis move isn\u0026rsquo;t totally without precedence—Apple made a similar change in 2015 when it limited the number of rules a content blocker  could employ to 50,000. But a combination of Google\u0026rsquo;s proposal limiting the number of rules to just 30,000 and Google being, well, Google has escalated this story to a whole other level.\u003c/p\u003e\n\u003cp\u003eTo be fair though, even though Apple allows content blockers to use 50,000 rules, popular ad blockers (read: ones that do the job well) often need hundreds of thousands of rules to be effective. I \u003ca href=\"https://1blocker.com\"\u003euse 1Blocker\u003c/a\u003e on my devices,  but even 1Blocker\u0026rsquo;s developer skirts around the 50,000 rule limit by \u003ca href=\"https://twitter.com/1blockerapp/status/987214584376430592?lang=en\"\u003eimplementing each rule \u0026ldquo;set\u0026rdquo; as a separate content blocker\u003c/a\u003e, thereby allow 1Blocker to check against over 350,000 rules.\u003c/p\u003e\n\u003cp\u003eAt the end of the day, this change to Chrome is only a proposal. And if we\u0026rsquo;re giving Google any kudos, it\u0026rsquo;s that they\u0026rsquo;re still conducting sensitive changes to Chromium \u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=896897\u0026amp;desc=2#c23\"\u003ein the open\u003c/a\u003e. I\u0026rsquo;m also not suggesting that Apple and Google are wholly wrong here. The pursuit of enhanced privacy while still allowing users to have some control over their browsers is a path filled with compromises. And since browser makers aren\u0026rsquo;t going to \u003cem\u003enot\u003c/em\u003e evolve their products, I think it\u0026rsquo;s important that you understand the motives that may be driving their decisions.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e(And now a brief primer on how ad blockers work for the non-tech savvy family members who read my site ♥. Ad blockers prevent certain webpage elements from displaying by (a) preventing your browser from talking to certain ad-related servers and (b) maintaining a custom list of elements that either you or the community at large have flagged as worth blocking. They do this by comparing requests your browser\u0026rsquo;s resource requests against a list of tens of thousands of text patterns—if a request matches one of these rules, the content is blocked.  When using an ad blocker, browsing the web should feel faster, because your browser no longer has to wait on five different ads to download or tracking scripts to execute. Take a site like \u003cem\u003eThe Verge\u003c/em\u003e, the well-known tech site/advertisement billboard. Without an ad blocker installed, \u003cem\u003eThe Verge\u0026rsquo;s\u003c/em\u003e homepage weighs in at 5.8 MB with over 350 network requests to (I assume) ad and tracking servers. However, if you install an ad blocker \u003ca href=\"https://github.com/gorhill/uBlock\"\u003elike uBlock Origin\u003c/a\u003e, \u003cem\u003eThe Verge\u0026rsquo;s\u003c/em\u003e homepage now only weighs 4.2 MB with fewer than 50 network requests.)\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Proposed Changes to Chrome Would Hamper Ad Blockers\" href='https://audacious.blog/2019/chrome-ad-blockers'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-              
-                "title": "▲︎ Twitter Begins Rolling Out ‘Lite’ Version of Website to Everyone",
-                 
-          "url": "https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone/",
-                "date_published": "2019-01-23T19:50:55-05:00",
-                "id": "https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eTwitter\u0026rsquo;s calling it the \u0026ldquo;new twitter.com\u0026rdquo;, but this update \u003ca href=\"https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html\"\u003eis clearly the lite variant\u003c/a\u003e of their website that mobile users have been using for over a year. Good on them for pushing this out to everyone—I\u0026rsquo;ve found it to be significantly faster and nicer to use than the normal site. It\u0026rsquo;s also (\u003ca href=\"https://www.theverge.com/2018/2/16/17021960/twitter-mac-desktop-app-discontinued-support-ending\"\u003esadly\u003c/a\u003e) the best official way to use Twitter on your Mac.\u003c/p\u003e\n\u003cp\u003eIf you\u0026rsquo;re still seeing the old/current version, you can check out what\u0026rsquo;s coming by going directly to \u003ca href=\"https://mobile.twitter.com\"\u003emobile.twitter.com\u003c/a\u003e.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone\" href='https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-              
-                "title": "▲︎ Netflix Says ‘Fortnite’ Is a Bigger Competitor Than HBO or Hulu",
-                 
-          "url": "https://audacious.blog/2019/netflix-vs-fortnite/",
-                "date_published": "2019-01-22T22:51:32-05:00",
-                "id": "https://audacious.blog/2019/netflix-vs-fortnite/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eMatt Patches, \u003cem\u003ePolygon\u003c/em\u003e, reporting on Netflix\u0026rsquo;s latest quarterly earnings report:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e[\u0026hellip;] Netflix estimated that it commands 10 percent of television screen time in the U.S., and slightly less than that for total mobile screen time. In other countries, the percentages are lower due to \u0026ldquo;lower penetration of our service.\u0026rdquo; The reason, Netflix said, isn\u0026rsquo;t because of obvious streaming competition, but of online platforms and video games.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026ldquo;We compete with (and lose to) \u003ca href=\"https://www.polygon.com/game/fortnite/2417\"\u003e\u003cem\u003eFortnite\u003c/em\u003e\u003c/a\u003e more than HBO,\u0026rdquo; the report indicated. \u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eBy the end of 2018, Netflix claimed nearly 139 million paying memberships worldwide. Meanwhile, in November 2018, Epic reported that its blockbuster battle royale game commanded \u003ca href=\"https://www.bloomberg.com/news/articles/2018-11-26/fortnite-now-has-200-million-players-up-60-from-the-last-count\"\u003eupwards of 200 million\u003c/a\u003e registered users. In its quarterly report, Netflix made clear that \u0026ldquo;consumer screen time\u0026rdquo; is its most valuable metric, and that \u003cem\u003eFortnite\u003c/em\u003e — just one of endless options for plugged-in audiences \u0026ndash; offers the stiffest competition.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eThat \u003cem\u003eFortnite\u003c/em\u003e impacts Netflix more than HBO should be a clear indicator as to why Netflix expects to \u003ca href=\"https://variety.com/2019/digital/news/netflix-content-spending-2019-15-billion-1203112090/\"\u003espend almost $15 billion on content this year\u003c/a\u003e. Netflix isn\u0026rsquo;t competing with HBO because HBO also makes content, Netflix competes with HBO because when you\u0026rsquo;re watching HBO you\u0026rsquo;re not watching Netflix. Sure, you could be paying for both, but once the attention scales tip too far in one direction, people begin to wonder if they really need that extra monthly subscription. Where attention goes, money follows.\u003c/p\u003e\n\u003cp\u003eThis is why features like \u003ca href=\"https://support.apple.com/en-us/HT208982\"\u003eScreen Time on iOS\u003c/a\u003e are so interesting to me\u0026ndash;they provide cold, hard numbers as to where I\u0026rsquo;m actually spending my time. Like Mint or \u003ca href=\"https://www.youneedabudget.com\"\u003eYNAB\u003c/a\u003e for your minutes. An attention budget.\u003c/p\u003e\n\u003cp\u003eIt\u0026rsquo;s not just screen things, either. Netflix shows, Facebook status updates, \u003cem\u003eFortnite\u003c/em\u003e matches, wood carving, genoise sponge cake baking are all\u0026ndash;in some manner\u0026ndash;competing for your attention. \u003ca href=\"https://en.wikipedia.org/wiki/Attention_economy\"\u003eThe attention economy\u003c/a\u003e posits that as content becomes increasingly available, attention (read: time) becomes a scarce commodity. If 200 million people started regularly baking genoise in the evenings instead of watching Netflix, you can bet we\u0026rsquo;d hear Reed Hastings say \u0026ldquo;sponge cakes\u0026rdquo; in the next quarterly report.\u003c/p\u003e\n\u003cp\u003e(Once you start thinking about the digital services and apps we use as primarily chasing your attention instead of your dollars, it becomes easier to see how addictive and downright manipulating some of these user interfaces have become. But that’s for another post.)\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Netflix Says ‘Fortnite’ is a Bigger Competitor Than HBO or Hulu\" href='https://audacious.blog/2019/netflix-vs-fortnite'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-              
-                "title": "▲︎ ‘Signal v Noise’ Officially Exits Medium",
-                 
-          "url": "https://audacious.blog/2019/svn-exits-medium/",
-                "date_published": "2019-01-17T21:34:37-05:00",
-                "id": "https://audacious.blog/2019/svn-exits-medium/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eFinal nail, meet coffin.\u003c/p\u003e\n\u003cp\u003eHere with the follow-up to their \u003ca href=\"https://audacious.blog/2018/signal-v-noise-leaving-medium/\"\u003eannouncement last September\u003c/a\u003e is CTO and co-founder of Basecamp, David Heinemeier Hansson:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThese days Medium is focused on their membership offering, though. Trying to aggregate writing from many sources and sell a broad subscription on top of that. And it’s a neat model, and it’s wonderful to see Medium try something different. But it’s not for us, and it’s not for Signal v Noise. [\u0026hellip;]\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eBeyond that, though, we’ve grown ever more aware of the problems with centralizing the internet. Traditional blogs might have swung out of favor, as we all discovered the benefits of social media and aggregating platforms, but we think they’re about to swing back in style, as we all discover the real costs and problems brought by such centralization. [\u0026hellip;]\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThat doesn’t mean we regret our time at Medium. Being on Medium helped propel \u003ca href=\"https://m.signalvnoise.com/lets-bury-the-hustle/\"\u003esome\u003c/a\u003e \u003ca href=\"https://m.signalvnoise.com/is-group-chat-making-you-sweat/\"\u003eof\u003c/a\u003e \u003ca href=\"https://m.signalvnoise.com/reconsider/\"\u003eour\u003c/a\u003e \u003ca href=\"https://m.signalvnoise.com/give-it-five-minutes/\"\u003ebest\u003c/a\u003e \u003ca href=\"https://m.signalvnoise.com/why-we-choose-profit/\"\u003ewriting\u003c/a\u003e to a whole new audience. But these days there’s less of a “what Medium is doing for us”, and a whole lot more of “what we’re doing for Medium”. It was a good time while it lasted, but good times are gone.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eTheir new site is powered by WordPress and it looks freaking great. The theme was designed by Basecamp\u0026rsquo;s in-house designer Adam Stoddard, and I\u0026rsquo;m really digging his choice to set everything in \u003ca href=\"https://klim.co.nz/retail-fonts/tiempos-headline/\"\u003eTiempos\u003c/a\u003e. (I mean, \u003ca href=\"https://m.signalvnoise.com\"\u003ego \u003cem\u003elook\u003c/em\u003e\u003c/a\u003e at those big, bold, beautiful headlines.)\u003c/p\u003e\n\u003cp\u003eUnfortunately, Basecamp wasn\u0026rsquo;t able to export any of the comments on their old posts. This is disappointing because \u003cem\u003eSvN\u003c/em\u003e comments are those rare type of comments you actually want to read. To have them locked forever in Medium is a not-insignificant loss.\u003c/p\u003e\n\u003cp\u003eAs far as traditional blogs swinging \u0026ldquo;back into style\u0026rdquo;, I do hope that\u0026rsquo;s the case. Most of my favorite, non-news Internet content is the work of around 20 different writers, programmers, designers, and thinkers that I\u0026rsquo;ve stumbled across and subscribed to over the years. I list a few of my favorites \u003ca href=\"https://audaciousfox.net/masthead#other-writers-worth-reading\"\u003eover here\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAs a side note: If you\u0026rsquo;re new to the blogging scene, welcome. There\u0026rsquo;s never been a better time to start writing your own site, nor have there been more platforms and frameworks that give \u003cem\u003eyou\u003c/em\u003e control over your content and its presentation. And if you need help? Shoot me an email—I\u0026rsquo;d love to help you out.\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for ‘Signal v Noise’ Officially Exits Medium\" href='https://audacious.blog/2019/svn-exits-medium'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-              
-                "title": "▲︎ Doist Switches From Medium to WordPress",
-                 
-          "url": "https://audacious.blog/2019/doist-leaves-medium-for-wordpress/",
-                "date_published": "2019-01-13T11:51:32-05:00",
-                "id": "https://audacious.blog/2019/doist-leaves-medium-for-wordpress/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eLooks like Doist started with Medium \u003ca href=\"https://web.archive.org/web/*/http://blog.doist.com\"\u003ein 2017\u003c/a\u003e, and then switched to WP Engine—a WordPress hosting service—earlier this month.\u003c/p\u003e\n\u003cp\u003e(You might not recognize Doist-the-company, but you\u0026rsquo;ve probably heard of their most popular product: \u003ca href=\"https://todoist.com\"\u003eTodoist\u003c/a\u003e, the much loved cross-platform task manager.)\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Doist Switches From Medium to WordPress\" href='https://audacious.blog/2019/doist-leaves-medium-for-wordpress'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
-            }
-        
-        , 
-            {
-              
-                "title": "▲︎ Yuibco Releases Lightning Compatible Security Key for IPhone",
-                 
-          "url": "https://audacious.blog/2019/yubico-lightning/",
-                "date_published": "2019-01-12T09:46:42-05:00",
-                "id": "https://audacious.blog/2019/yubico-lightning/",
-                "author": {
-                  "name" : "K.Q. Dreger"
-                },
-                "content_html": "\u003cp\u003eRussell Brandom, \u003cem\u003eThe Verge\u003c/em\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eYubico has announced a new version of its popular Security Key for use in Lightning ports, the first such device to enable physical token authentication for iPhones. The device also supports a USB-C connection.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003ePreviously, the only way to connect a security key to an iPhone was over Bluetooth, which suffered Bluetooth’s normal usability issues as well as potential security concerns around mistaken pairings. Android devices can also pair over NFC, but that functionality is impossible under iOS’s current NFC restrictions.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eYubico wasn\u0026rsquo;t likely to ever make a Lightning-only security key because these keys are most useful when they\u0026rsquo;re device agnostic. iOS apps will have to add support for these sorts of keys, but it\u0026rsquo;s still nice that a Bluetooth-free security key option now exists for iPhone users.\u003c/p\u003e\n\u003cp\u003e(Brief primer on security keys, because I both use and recommend them: While a house key gets you into your home and a car key is required to start your vehicle—a physical Yubico security key can be a required part of your login flow for email, social media, etc. This makes those accounts almost impossible to hack, because an attacker would need your physical key. Additionally, I\u0026rsquo;ve found most people are (a) more willing to use and (b) faster to understand the concept of a physical key for your email; whereas explaining two-factor authentication codes can often take a few rounds of drawing before the idea takes.)\u003c/p\u003e\n\u003cdiv\u003e\u003ca title=\"Permanent link for Yuibco Releases Lightning Compatible Security Key for iPhone\" href='https://audacious.blog/2019/yubico-lightning'\u003e\u0026nbsp;▲︎\u0026nbsp;\u003c/a\u003e\u003c/div\u003e\n"
             }
         
     ]

@@ -9,7 +9,7 @@
     {{ range .Pages }}
     	<article class="index__item">
     		<div class="index__item__meta">
-    			{{ if eq .Section "essays" }}
+    			{{ if eq .Section "notes" }}
     			<span class='index__item__icon'></span>
     			{{ end }}
     			<span class="index__item__title__date">{{ .PublishDate.Format "Jan 2" }}</span> 

@@ -36,9 +36,7 @@
   
   <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/6966412/css/fonts.css" />
 
-
-  
-  {{ $style := resources.Get "d.scss" | resources.ToCSS | resources.Minify }}
+  {{ $style := resources.Get "audacious.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 
   <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101122105);</script>

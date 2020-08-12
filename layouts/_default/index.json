@@ -10,10 +10,10 @@
       "name" : "{{ .Site.Author.name }}"
     },
     "items": [
-    {{ range $i, $element := first 25 (where $.Site.RegularPages "Section" "in" "notes links") }}
+    {{ range $i, $element := first 25 (where $.Site.RegularPages "Section" "in" "notes essays") }}
         {{ if $i }}, {{ end }}
             {
-              {{ if eq .Section "links" }} 
+              {{ if eq .Section "notes" }} 
                 "title": "{{ .Title | title }}",
                 "external_url": "{{ .Params.link }}",
                 {{ else }}

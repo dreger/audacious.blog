@@ -41,7 +41,7 @@
   --font-heading: var(--font); 
   --max-width: 44rem; 
   --padding: 4rem; 
-  --font-size: 18px;
+  --font-size: 16px;
 }
 
 ::selection { 
@@ -228,7 +228,7 @@ main {
 .index__item__icon {
     display: inline-block; 
     background-image: url(/images/lock.svg);
-    background-image: url(/images/file-text-heavy.svg);
+    background-image: url(/images/link-2.svg);
     background-size: 100% 100%; 
     background-repeat: no-repeat;
     background-position: center; 

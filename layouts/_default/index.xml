@@ -9,7 +9,7 @@
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}    {{ range $element := first 30 (where .Site.RegularPages "Section" "in" "notes links") }}
     <item>
         <author>{{ .Site.Author.name }}</author>
-      {{ if eq .Section "links" }} 
+      {{ if eq .Section "notes" }} 
         <title>{{ .Title | title }}</title>
         <link>{{ .Params.link }}</link>
       {{ else }}
@@ -20,7 +20,7 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <description>
         {{ .Content | html }}
-        {{ if eq .Section "links" }}
+        {{ if eq .Section "notes" }}
           {{ partial "rss-link-footer.html" . | html }}
         {{ end }}
       </description>

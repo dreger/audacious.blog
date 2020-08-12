@@ -1,24 +1,24 @@
 @charset "UTF-8";
 
-@font-face {
-  font-family: "IBMPlexSerif";
-  font-weight: 500; 
-  src: url("/fonts/IBMPlexSerif-Medium.woff2") format("woff2"),
-       url("/fonts/IBMPlexSerif-Medium.woff") format("woff");
-}
-@font-face {
-  font-family: "IBMPlexSerif";
-  font-weight: 500; 
-  font-style: italic; 
-  src: url("/fonts/IBMPlexSerif-MediumItalic.woff2") format("woff2"),
-       url("/fonts/IBMPlexSerif-MediumItalic.woff") format("woff");
-}
-@font-face {
-  font-family: "IBMPlexSerif";
-  font-weight: 700; 
-  src: url("/fonts/IBMPlexSerif-Bold.woff2") format("woff2"),
-       url("/fonts/IBMPlexSerif-Bold.woff") format("woff");
-}
+// @font-face {
+//   font-family: "IBMPlexSerif";
+//   font-weight: 500; 
+//   src: url("/fonts/IBMPlexSerif-Medium.woff2") format("woff2"),
+//        url("/fonts/IBMPlexSerif-Medium.woff") format("woff");
+// }
+// @font-face {
+//   font-family: "IBMPlexSerif";
+//   font-weight: 500; 
+//   font-style: italic; 
+//   src: url("/fonts/IBMPlexSerif-MediumItalic.woff2") format("woff2"),
+//        url("/fonts/IBMPlexSerif-MediumItalic.woff") format("woff");
+// }
+// @font-face {
+//   font-family: "IBMPlexSerif";
+//   font-weight: 700; 
+//   src: url("/fonts/IBMPlexSerif-Bold.woff2") format("woff2"),
+//        url("/fonts/IBMPlexSerif-Bold.woff") format("woff");
+// }
 
 :root {
   // Colors
@@ -34,12 +34,14 @@
 
   // Sizing
   --font-weight-bold: 800; 
+  --font-weight-bold: 600; 
+  --font-weight-bold: 700; 
   --font-weight-regular: 500; 
-  --font: "IBMPlexSerif", Georgia, serif; 
-  --font-heading: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, serif; 
+  --font: "Whitney SSm A", "Whitney SSm B", -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif; 
+  --font-heading: var(--font); 
   --max-width: 44rem; 
   --padding: 4rem; 
-  --font-size: 16px;
+  --font-size: 18px;
 }
 
 ::selection { 
@@ -91,12 +93,15 @@ ul { list-style: square; padding-left: 1.25rem; }
 li { margin-bottom: .5rem; }
 a {
   color: var(--text); 
+  border-bottom: solid 2px var(--faded-line); 
   transition: color .2s ease;
+  // text-decoration-thickness: 2px; 
+  text-decoration: none; 
   // text-decoration-color: var(--faded-line); 
-  text-decoration-thickness: 1px; 
 }
 a:hover { 
   color: var(--accent); 
+  border-color: var(--accent); 
 }
 
 blockquote {
@@ -137,7 +142,7 @@ main {
 }
 
 .header__menu {
-  padding: .25rem .5rem .5rem; 
+  padding: .25rem .5rem; 
   border-radius: 8px; 
   border: 0; 
   font-size: 1.25rem;
@@ -208,31 +213,44 @@ main {
   top: -.75rem; 
   padding-right: .5rem; 
 }
-.index__item { margin-bottom: 1.5rem; }
-.index__item__title { font-weight: var(--font-weight-bold); }
-.index__item__title--essay {
+.index__item { 
+  margin-bottom: 1.5rem; 
+  align-items: top; 
+  // display: flex; 
+}
+.index__item__title { 
   font-weight: var(--font-weight-bold); 
-  &:before {
-    content: ""; 
+  display: block; 
+}
+.index__item__meta {
+  font-size: .875rem; 
+}
+.index__item__icon {
     display: inline-block; 
     background-image: url(/images/lock.svg);
     background-image: url(/images/file-text-heavy.svg);
     background-size: 100% 100%; 
     background-repeat: no-repeat;
     background-position: center; 
-    width: 1em; 
-    height: 1em;
-    top: 2px; 
+    opacity: .6; 
+    width: .875rem; 
+    top: 2px ;
+    height: .875rem;
     position: relative; 
-    margin: 0 .25em 0 0;  
-  }
+    fill: red; 
 }
-.index__item__title--link { 
-  font-weight: var(--font-weight-regular); 
+.index__item__icon--free {
+    background-image: none;
 }
+.index__item__title__date {
+  font-weight: var(--font-weight-regular);
+  color: var(--faded-text); 
+}
+
 
 .post__meta {
   font-size: 1rem;
+  border-color: transparent;
   color: var(--faded-text); 
   margin-top: 0;
   text-decoration-color: transparent; 
@@ -242,7 +260,33 @@ main {
   color: var(--faded-text); 
 }
 
-
+.card {
+  border-radius: 4px; 
+  background-color: var(--faded); 
+  padding: 1rem 1.5rem; 
+  margin-bottom: 3rem;
+}
+.card__title {
+  font-weight: var(--font-weight-bold);
+  margin-bottom: 1.25rem;
+}
+.card__icon {
+  width: auto; 
+  opacity: .5;
+}
+.card__button {
+  display: inline-block;
+  background-color: var(--accent); 
+  color: white; 
+  padding: .5rem 1rem; 
+  border-radius: 100px; 
+  border: solid 2px var(--accent); 
+  font-weight: var(--font-weight-bold); 
+  &:hover {
+    opacity: .7; 
+    color: white; 
+  }
+}
 
 @media (max-width: 900px) {
   :root {

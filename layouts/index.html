@@ -8,7 +8,13 @@
 
     {{ range .Pages }}
     	<article class="index__item">
-			<a class='index__item__title{{ if eq .Section "essays" }}--essay{{ else }}--note{{ end }}' title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .Title | title }}</a>
+    		<div class="index__item__meta">
+    			{{ if eq .Section "essays" }}
+    			<span class='index__item__icon'></span>
+    			{{ end }}
+    			<span class="index__item__title__date">{{ .PublishDate.Format "Jan 2" }}</span> 
+    		</div>
+			<span class="index__item__title"><a title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .Title | title }}</a></span>
 		</article>
     {{ end }}
     <br><br>

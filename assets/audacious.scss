@@ -33,15 +33,14 @@
   --bg-column: #fff; 
 
   // Sizing
-  --font-weight-bold: 800; 
   --font-weight-bold: 600; 
-  --font-weight-bold: 700; 
-  --font-weight-regular: 500; 
+  --font-weight-regular: 400; 
   --font: "Whitney SSm A", "Whitney SSm B", -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif; 
   --font-heading: var(--font); 
   --max-width: 44rem; 
+  --max-width: 40rem; 
   --padding: 4rem; 
-  --font-size: 16px;
+  --font-size: 18px;
 }
 
 ::selection { 
@@ -205,6 +204,7 @@ main {
   border-top: solid 2px var(--faded-line); 
   font-size: 1rem; 
   color: var(--faded-text); 
+  &:first-child { display: none; }
 }
 .index__date__year {
   background: white; 
@@ -216,7 +216,6 @@ main {
 .index__item { 
   margin-bottom: 1.5rem; 
   align-items: top; 
-  // display: flex; 
 }
 .index__item__title { 
   font-weight: var(--font-weight-bold); 
@@ -261,10 +260,14 @@ main {
   color: var(--faded-text); 
 }
 
+.pagination {
+  margin-top: 5rem;
+}
+
 .card {
   border-radius: 4px; 
   background-color: var(--faded); 
-  padding: 1rem 1.5rem; 
+  padding: 1.5rem; 
   margin-bottom: 3rem;
 }
 .card__title {
@@ -273,14 +276,16 @@ main {
 }
 .card__icon {
   width: auto; 
-  opacity: .5;
+  margin: 0 0 1.25rem; 
+  opacity: .7;
+  width: 2rem; 
 }
 .card__button {
   display: inline-block;
   background-color: var(--accent); 
   color: white; 
   padding: .5rem 1rem; 
-  border-radius: 100px; 
+  border-radius: 10px; 
   border: solid 2px var(--accent); 
   font-weight: var(--font-weight-bold); 
   &:hover {
@@ -292,7 +297,6 @@ main {
 @media (max-width: 900px) {
   :root {
     --max-width: 32rem; 
-    --font-size: 16px; 
   }
 }
 
@@ -300,7 +304,7 @@ main {
   :root {
     --padding: 1rem; 
     --max-width: 100%; 
-    --font-size: 18px; 
+    --font-size: 20px; 
   }
   main {
     margin: 0;

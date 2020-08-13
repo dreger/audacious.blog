@@ -14,7 +14,7 @@
     			{{ end }} -->
     			<span class="index__item__title__date">{{ .PublishDate.Format "Jan 2" }}</span> 
     		</div>
-			<span class='index__item__title {{ if eq .Section "notes" }}index__item__title--subtle{{ end }}'><a title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .Title | title }}</a></span>
+			<h2 class='index__item__title {{ if eq .Section "notes" }}index__item__title--subtle{{ end }}'><a title="{{ .Title | title }}" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .Title | title }}</a></h2>
 		</article>
     {{ end }}
     <br><br>

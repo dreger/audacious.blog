@@ -34,13 +34,31 @@
   {{ end -}}
   <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
   
-  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/6966412/css/fonts.css" />
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/6408612/css/fonts.css" />
 
   {{ $style := resources.Get "audacious.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 
   <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101122105);</script>
   <script async src="//static.getclicky.com/js"></script>
+
+  <!-- <script type="text/javascript">
+  window.MemberfulOptions = {site: "https://audacious.memberful.com"};
+
+  (function() {
+    var s   = document.createElement('script');
+
+    s.type  = 'text/javascript';
+    s.async = true;
+    s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+    setup = function() { window.MemberfulEmbedded.setup(); }
+
+    s.addEventListener("load", setup, false);
+
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
+</script> -->
 </head>
 <body>
   <main>

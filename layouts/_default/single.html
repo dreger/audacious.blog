@@ -16,20 +16,20 @@
     {{ end }}
 
   	{{ .Content }}
-
-    <!-- <div class="card">
-      <div class="card__title"><img class="card__icon" src="/images/lock.svg"><span class="index__item__icon"></span> Members Only Content</div>
-      <p>This site is run out of my own pocket and in my spare time. Everyone gets one free article a month, but members get one new post a week.</p>
-      <a class="card__button" href="#">Become a member &rarr;</a>
+<!-- 
+    <div class="card">
+      <img class="card__icon" src="/images/lock.svg">
+      <h2 class="card__title">You need to be a member to see this post.</h2>
+      <p>This site is run out of my own pocket and in my spare time. Members help support my writing. If you like the blog, become a member today and get immediate access to this post and the entire archive.</p>
+      <a class="card__button" href="https://audacious.memberful.com/checkout?plan=52586">Become a member &rarr;</a>
     </div> -->
-
 
     {{ if .PublishDate }}
       <p><a class="post__meta" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .PublishDate.Format "Monday, 2 January 2006" }}</a></p>
 
-      <hr>
-  
-      {{ if .PrevPage }}<p><strong>Older</strong><br><a href='{{ strings.TrimSuffix "/" .PrevPage.Permalink }}'>{{.PrevPage.Title | title}}</a></p>{{ end }}
-      {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title | title}}</a></div>{{ end }}
+      <div class="pagination">  
+        {{ if .PrevPage }}<p><strong>Older</strong><br><a href='{{ strings.TrimSuffix "/" .PrevPage.Permalink }}'>{{.PrevPage.Title | title}}</a></p>{{ end }}
+        {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title | title}}</a></div>{{ end }}
+      </div>
     {{ end }}
 {{ end }}

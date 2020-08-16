@@ -55,13 +55,6 @@ This site should look good in all modern web browsers—please let me know if it
 Web traffic monitored via [Clicky](https://clicky.com). 
 
 
-
-
-
-
-
-
-
 ## Other writers worth reading 
 
 I read pretty much everything these folks put out. I update this list every couple of months, so check back from time to time. (Updated Dec. 2019)

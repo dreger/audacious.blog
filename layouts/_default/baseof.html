@@ -27,14 +27,13 @@
 
   <!-- Prefetching -->
   <link rel="dns-prefetch" href="//static.getclicky.com">
-  <link rel="dns-prefetch" href="//cloud.typography.com">
 
   {{ range .AlternativeOutputFormats -}}
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
   <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
   
-  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/6408612/css/fonts.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/6408612/css/fonts.css" /> -->
 
   {{ $style := resources.Get "audacious.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">

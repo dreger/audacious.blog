@@ -33,14 +33,12 @@
   --bg-column: #fff;
 
   // Sizing
-  --font-weight-bold: 600;
+  --font-weight-bold: 700;
   --font-weight-regular: 400;
-  --font: Verdana, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif;
+  --font: "Decimal A", "Decimal B", Verdana, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif;
   --font-heading: var(--font);
   --line-height: 1.5;
   --max-width: 44rem;
-  --max-width: 40rem;
-  --max-width: 42rem;
   --padding: 4rem;
   --font-size: 16px;
 }
@@ -166,20 +164,24 @@ main {
 
 
 .logo {
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
+  //background-size: 100% 100%;
+  //background-repeat: no-repeat;
   display: block;
-  background-position: left top;
+  /*background-position: left top;
   background-image: url(/images/audacious.svg);
   background-image: url(/images/logo.svg);
   width: 8rem;
   padding: .5rem 0;
-  height: 30px;
+  height: 30px;*/
   margin: 0;
-  text-indent: -99999px;
+  //text-indent: -99999px;
   border: 0;
   transition: opacity .2s ease;
-  opacity: .85;
+  //opacity: .85;
+  font-weight: var(--font-weight-bold); 
+  text-transform: uppercase; 
+  letter-spacing: .02em; 
+
   &:hover {
     opacity: .5
   }

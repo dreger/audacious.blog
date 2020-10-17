@@ -1,6 +1,6 @@
 baseURL = "https://audacious.blog/"
 languageCode = "en-us"
-titleCaseStyle = "AP"
+
 
 title = "Audacious"
 uglyurls = false

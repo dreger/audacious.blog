@@ -4,7 +4,7 @@
 
 {{ define "main" }}
     {{ if in "essays pages" .Section }}
-      <h1 class="post__title">{{ .Title | title }}</h1>
+      <h1 class="post__title">{{ .Title }}</h1>
     {{ else }}
       <h2>
         {{ if isset .Params "link" }}

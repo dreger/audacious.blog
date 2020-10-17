@@ -22,7 +22,7 @@ Notice the mixture of month-to-month (eating out, groceries, fun) and long-term 
 
 The first step for any good budget is to figure out what you're currently spending money on. To do this, it helps to group your transactions into categories.
 
-### Master categories
+### Main categories
 
 All of your categories should fall under one of the three following "master categories." Although grouping transactions into categories is useful, it helps to group those categories together, based on whether they're things you _have_ to pay or not. Here's what we currently use:
 

@@ -1,5 +1,5 @@
 {{ define "title" }}
-  {{ .Title | title }}
+  {{ .Title }}
 {{ end }}
 
 {{ define "main" }}
@@ -8,9 +8,9 @@
     {{ else }}
       <h2>
         {{ if isset .Params "link" }}
-          <a href="{{ .Params.link }}">{{ .Title | title }}</a>
+          <a href="{{ .Params.link }}">{{ .Title }}</a>
         {{ else }}
-          {{ .Title | title }}
+          {{ .Title }}
         {{ end }}
       </h2>
     {{ end }}

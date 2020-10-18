@@ -22,8 +22,8 @@
 
 :root {
   // Colors
-  --accent: #FFC200;
   --accent: #848ccf;
+  --accent: #FFC200;
   --text-heading: rgba(0,0,0,.9);
   --text: rgba(0,0,0,.8);
   --faded: #f1f1f1;
@@ -93,13 +93,13 @@ li { margin-bottom: .5rem; }
 a {
   color: var(--text);
   border-bottom: solid 2px var(--faded-line);
-  transition: color .2s ease;
+  transition: color .1s ease;
   // text-decoration-thickness: 2px;
   text-decoration: none;
   // text-decoration-color: var(--faded-line);
 }
 a:hover {
-  color: var(--accent);
+  //color: var(--accent);
   border-color: var(--accent);
 }
 
@@ -183,7 +183,7 @@ main {
   letter-spacing: .02em; 
 
   &:hover {
-    opacity: .5
+ //   opacity: .5
   }
 }
 

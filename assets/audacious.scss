@@ -25,7 +25,7 @@
   --accent: #848ccf;
   --accent: #FFC200;
   --text-heading: rgba(0,0,0,.9);
-  --text: rgba(0,0,0,.8);
+  --text: rgba(0,0,0,.85);
   --faded: #f1f1f1;
   --faded-line: #e1e1e1;
   --faded-text: #757575;
@@ -35,12 +35,13 @@
   // Sizing
   --font-weight-bold: 700;
   --font-weight-regular: 400;
-  --font: "Decimal A", "Decimal B", Verdana, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif;
-  --font-heading: var(--font);
+  --font: Georgia; //"Decimal A", "Decimal B", Verdana, 
+  --font-heading: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif; 
   --line-height: 1.5;
-  --max-width: 44rem;
+  --max-width: 40rem;
+  // --max-width: calc(64ch + 8rem); 
   --padding: 4rem;
-  --font-size: 16px;
+  --font-size: 18px;
 }
 
 ::selection {
@@ -73,12 +74,12 @@ h1, h2, h3 {
 }
 h1 {
   line-height: 1.25em;
-  font-size: 1.563rem;
+  font-size: 2.6rem;
   letter-spacing: -.01em;
+  font-weight: var(--font-weight-regular); 
 }
 h2 {
-  font-weight: var(--font-weight-regular);
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   margin-bottom: .5rem;
 }
 h3 {
@@ -88,18 +89,19 @@ h3 {
   margin: 1.5rem 0 .25rem;
 }
 
-ul { list-style: square; padding-left: 1.25rem; }
-li { margin-bottom: .5rem; }
+ul { padding-left: 1.25rem; }
+ol { padding-left: 1.25rem; }
+li { margin-bottom: 1.5rem; }
 a {
   color: var(--text);
-  border-bottom: solid 2px var(--faded-line);
+  // border-bottom: solid 2px var(--faded-line);
   transition: color .1s ease;
   // text-decoration-thickness: 2px;
-  text-decoration: none;
+  // text-decoration: none;
   // text-decoration-color: var(--faded-line);
 }
 a:hover {
-  //color: var(--accent);
+  color: var(--accent);
   border-color: var(--accent);
 }
 
@@ -138,6 +140,7 @@ main {
   margin: 0 auto;
   align-items: center;
   margin-bottom: 3rem;
+  font-family: var(--font-heading);
 }
 
 .header__menu {
@@ -164,18 +167,19 @@ main {
 
 
 .logo {
-  //background-size: 100% 100%;
-  //background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   display: block;
-  /*background-position: left top;
-  background-image: url(/images/audacious.svg);
+  background-position: left top;
   background-image: url(/images/logo.svg);
+  background-image: url(/images/audacious.svg);
   width: 8rem;
   padding: .5rem 0;
-  height: 30px;*/
+  height: 30px;
   margin: 0;
-  //text-indent: -99999px;
+  text-indent: -99999px;
   border: 0;
+  text-decoration: none; 
   transition: opacity .2s ease;
   //opacity: .85;
   font-weight: var(--font-weight-bold); 
@@ -229,11 +233,12 @@ main {
 .index__item__title--subtle { font-weight: var(--font-weight-regular); }
 .index__item__meta {
   font-size: .875rem;
+  font-family: var(--font-heading);
 }
 .index__item__icon {
     display: inline-block;
-    background-image: url(/images/lock.svg);
     background-image: url(/images/link-2.svg);
+    background-image: url(/images/lock.svg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -311,7 +316,6 @@ main {
   :root {
     --padding: 1rem;
     --max-width: 100%;
-    --font-size: 20px;
   }
   main {
     margin: 0;

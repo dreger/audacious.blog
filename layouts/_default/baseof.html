@@ -33,7 +33,7 @@
   {{ end -}}
   <link rel="canonical" href="{{ strings.TrimSuffix "/" .Permalink }}" />
   
-<!-- <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/7600612/css/fonts.css" /> -->
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7009134/7600612/css/fonts.css" />
 
   {{ $style := resources.Get "audacious.scss" | resources.ToCSS | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
@@ -62,7 +62,7 @@
 <body>
   <main>
     <header class="header">
-      <a href="/" class="logo">Audacious</a>
+      <a href="/" class="logo"><strong>Audacious</strong> by KQD</a>
       <button class="header__menu">•••</button>
     </header>
     {{ partial "navigation.html" . }}

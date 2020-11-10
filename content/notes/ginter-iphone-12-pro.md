@@ -1,5 +1,5 @@
 ---
-title: "Josh Ginter’s ‘First Impressions’ of the iPhone 12 Pro"
+title: "Joshua Ginter’s ‘First Impressions’ of the iPhone 12 Pro"
 date: 2020-11-09T19:39:00-05:00
 link: https://thesweetsetup.com/iphone-12-pro-first-impressions/
 summary: Josh Ginter is too talented.

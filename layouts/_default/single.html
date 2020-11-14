@@ -16,15 +16,17 @@
     {{ end }}
 
   	{{ .Content }}
-<!-- 
-    <div class="card">
+ 
+    <!-- <div class="card">
       <img class="card__icon" src="/images/lock.svg">
-      <h2 class="card__title">You need to be a member to see this post.</h2>
+      <h2 class="card__title">Join the Squad</h2>
       <p>This site is run out of my own pocket and in my spare time. Members help support my writing. If you like the blog, become a member today and get immediate access to this post and the entire archive.</p>
-      <a class="card__button" href="https://audacious.memberful.com/checkout?plan=52586">Become a member &rarr;</a>
-    </div> -->
+      <a class="card__button" href="https://audacious.memberful.com/checkout?plan=52586">Become a member</a>
+    </div>  -->
 
     {{ if .PublishDate }}
+
+
       <p><a class="post__meta" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .PublishDate.Format "Monday, 2 January 2006" }}</a></p>
 
       <div class="pagination">  

@@ -40,13 +40,14 @@
   // Sizing
   --font-weight-bold: 700;
   --font-weight-regular: 400;
-  --font: "Decimal A", "Decimal B", Georgia; //"Decimal A", "Decimal B", Verdana, 
-  --font-heading: "Decimal A", "Decimal B", -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif; 
+  --font: "Decimal A", "Decimal B"; 
+  --font-heading: var(--font); 
+  --font: Charter, Georgia, serif; //"Decimal A", "Decimal B", Verdana, 
+  --font-heading: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif; 
   --line-height: 1.4;
-  --max-width: calc(32rem + 8rem);
-  // --max-width: calc(64ch + 8rem); 
+  --max-width: calc(28rem + 8rem);
   --padding: 4rem;
-  --font-size: 14px;
+  --font-size: 16px;
 }
 
 ::selection {
@@ -69,7 +70,7 @@ body {
   line-height: var(--line-height);
   text-rendering: optimizeLegibility;
 }
-h1,h2,h3,img,blockquote,ul,ol,p { margin: 0 0 1.5rem 0; }
+h1,h2,h3,img,blockquote,ul,ol,p { margin: 0 0 1rem 0; }
 code { font-family: var(--font); }
 strong { font-weight: var(--font-weight-bold); }
 h1, h2, h3 {
@@ -97,7 +98,7 @@ h3 {
 
 ul { padding-left: 1.25rem; }
 ol { padding-left: 1.25rem; }
-li { margin-bottom: 1.5rem; }
+li { margin-bottom: 1rem; }
 a {
   color: var(--text);
   border-bottom: solid 2px var(--faded-line);
@@ -225,7 +226,8 @@ main {
   padding-right: .5rem;
 }
 .index__item {
-  margin-bottom: 3rem;
+  margin-bottom: 3rem; // when member tag visible
+  margin-bottom: 1.5rem;
   align-items: top;
 }
 .index__item__title {
@@ -243,13 +245,13 @@ main {
 }
 
 .index__item__locked {
+  border-bottom: none; 
   display: flex; 
   background-color: var(--faded);
     border-radius: 4px; 
     margin-right: .5rem;
     align-items: center; 
     padding: .1rem .25rem; 
-    // opacity: .5;
 }
 .index__item__locked__icon {
     background-image: url(/images/link-2.svg);
@@ -294,7 +296,8 @@ main {
 
 .card {
   border-radius: 4px;
-  background-color: var(--faded);
+  background-color: var(--bg);
+  border: solid 2px var(--faded-line); 
   padding: 1.5rem;
   margin-bottom: 3rem;
 }
@@ -312,8 +315,8 @@ main {
   display: inline-block;
   background-color: var(--accent);
   color: white;
-  padding: .5rem 1rem;
-  border-radius: 10px;
+  padding: .5rem 1.5rem;
+  border-radius: 100px;
   border: solid 2px var(--accent);
   font-weight: var(--font-weight-bold);
   &:hover {
@@ -326,7 +329,7 @@ main {
   :root {
     --padding: 1rem;
     --max-width: 100%;
-      --font-size: 16px; 
+      --font-size: 20px; 
   }
   main {
     margin: 0;

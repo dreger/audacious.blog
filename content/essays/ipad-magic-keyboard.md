@@ -1,7 +1,7 @@
 ---
 title: "iPad Magic Keyboard"
 date: 2020-11-15T15:00:15-05:00
-summary: I hate the case material, but 
+summary: I hate the case material, but otherwise it's the best typing experience you can get.  
 ---
 
 The upshot: this is the best iPad keyboard you can buy. If the iPad were my only device, I'd buy this. The keys are great. (Finally.) The trackpad is tiny but better than anything else its size. The magnetic frame is a delight. The whole unit feels incredibly solid. 

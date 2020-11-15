@@ -6,7 +6,7 @@ summary: I hate the case material, but otherwise it's the best typing experience
 
 The upshot: this is the best iPad keyboard you can buy. If the iPad were my only device, I'd buy this. The keys are great. (Finally.) The trackpad is tiny but better than anything else its size. The magnetic frame is a delight. The whole unit feels incredibly solid. 
 
-And yet, we have a situation where the whole is less than the sum of its parts because the genius of this thing is wrapped in one of the worst materials you could have chosen for a top-tier professional accessory: pseudo-soft polyurethane. 
+And yet, we have a situation where the whole is less than the sum of its parts because the genius of this thing is wrapped in a terrible material for a top-tier professional accessory: pseudo-soft polyurethane. 
 
 Coming in at $300 (for the 11-inch, small version) it wasn’t worth it to me. But if the iPad is your only device, you may not have any other options. And if you’re like me, material aside, you won’t want to use anything else. 
 
@@ -44,7 +44,7 @@ I’m not a materials engineer, so when I say the Magic Keyboard hinge is a feat
 
 The design is striking, managing to blend the stability of a laptop (particularly the lapability) with the elegance of something entirely different and futuristic. 
 
-My only complaint is that the restricted viewing angle. I wish it would lean back another 10–15 degrees. I kept instinctively trying to adjust the screen beyond where it would go, and I never completely adjusted to the reduced rotation. 
+My only complaint is the restricted viewing angle. I wish it would lean back another 10–15 degrees. I kept instinctively trying to adjust the screen beyond where it would go, and I never completely adjusted to the reduced rotation. 
 
 
 ## Magnets 

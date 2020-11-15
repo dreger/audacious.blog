@@ -19,7 +19,7 @@ And at $300, it’s laughable that an otherwise great product would be wrapped i
 (Now, a Magic Keyboard—same everything—but made of aluminum? Take my money.)
 
 
-## The Keys
+## Keys
 
 Okay. Let's set the material aside for a moment. Besides, I'm tired of typing polyurethane. 
 
@@ -38,7 +38,7 @@ The trackpad feels nice and exquisitely engineered given its size. In practice, 
 (In case you're wondering, Trackpad Notions Per Hour is my only litmus test for this type of the hardware, by the way. And the only passing grade is zero.) 
 
 
-## The Hinge
+## Hinge
 
 I’m not a materials engineer, so when I say the Magic Keyboard hinge is a feat of engineering what I really mean is that the mechanism is good enough to quickly fade into the background. There’s no wobble or flex. It's almost hard to believe the design works, but it does. 
 

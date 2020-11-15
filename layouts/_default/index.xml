@@ -10,10 +10,10 @@
     <item>
         <author>{{ .Site.Author.name }}</author>
       {{ if eq .Section "notes" }} 
-        <title>{{ .Title | title }}</title>
+        <title>{{ .Title }}</title>
         <link>{{ .Params.link }}</link>
       {{ else }}
-        <title>{{ $.Param "icon" | markdownify  }} {{ .Title | title }}</title>
+        <title>{{ $.Param "icon" | markdownify  }} {{ .Title }}</title>
         <link>{{ strings.TrimSuffix "/" .Permalink }}</link>
       {{ end }}
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>

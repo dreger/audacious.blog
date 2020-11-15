@@ -14,10 +14,10 @@
         {{ if $i }}, {{ end }}
             {
               {{ if eq .Section "notes" }} 
-                "title": "{{ .Title | title }}",
+                "title": "{{ .Title }}",
                 "external_url": "{{ .Params.link }}",
                 {{ else }}
-                "title": "{{ $.Param "icon" | markdownify  }} {{ .Title | title }}",
+                "title": "{{ $.Param "icon" | markdownify  }} {{ .Title }}",
                 {{ end }} 
           "url": "{{ .Permalink }}",
                 "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",

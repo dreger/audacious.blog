@@ -35,7 +35,7 @@ No function key row was a miss. I hate having to reach up towards Control Center
 
 The trackpad feels nice and exquisitely engineered given its size. In practice, I didn't mind the smaller size, but I did find my finger running off the edge until my muscle memory was rewired. Two software preferences helped make the experience near perfect: turning the tracking speed all the way up and enabling tap-to-click. Once I had those settings tuned, I didn't think much about the trackpad after that. 
 
-(In case you're wondering, Trackpad Notions Per Hour is my only litmus test for this type of the hardware, by the way. And the only passing grade is zero.) 
+(In case you're wondering, Trackpad Notions Per Hour is my only litmus test for this type of hardware, by the way. And the only passing grade is zero.) 
 
 
 ## Hinge

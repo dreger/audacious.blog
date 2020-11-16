@@ -23,7 +23,7 @@ And at $300, it’s laughable that an otherwise great product would be wrapped i
 
 Okay. Let's set the material aside for a moment. Besides, I'm tired of typing polyurethane. 
 
-The keys are great. I said it above, but I'll say it again: finally. Although the 11-inch (for my iPad Air, 4th generation) were a touch small for my large hands, there's no getting around how great it feels to type on this thing.
+The keys are great. I said it above, but I'll say it again: finally. Although the 11-inch size (for my iPad Air, 4th generation) was a touch small for my large hands, there's no getting around how great it feels to type on this thing.
 
 If Apple's keyboards forevermore hit this level of travel and clickyness, I think the typing world would find it perfectly acceptable. At this point, why don't we all consider portable keyboards a solved problem space. No more innovation. Hard stop. 
 

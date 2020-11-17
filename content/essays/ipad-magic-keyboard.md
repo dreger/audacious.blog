@@ -23,7 +23,7 @@ And at $300, it’s laughable that an otherwise great product would be wrapped i
 
 Okay. Let's set the material aside for a moment. Besides, I'm tired of typing polyurethane. 
 
-The keys are great. I said it above, but I'll say it again: finally. Although the 11-inch (for my iPad Air, 4th generation) were a touch small for my large hands, there's no getting around how great it feels to type on this thing.
+The keys are great. I said it above, but I'll say it again: finally. Although the 11-inch size (for my iPad Air, 4th generation) was a touch small for my large hands, there's no getting around how great it feels to type on this thing.
 
 If Apple's keyboards forevermore hit this level of travel and clickyness, I think the typing world would find it perfectly acceptable. At this point, why don't we all consider portable keyboards a solved problem space. No more innovation. Hard stop. 
 
@@ -35,7 +35,7 @@ No function key row was a miss. I hate having to reach up towards Control Center
 
 The trackpad feels nice and exquisitely engineered given its size. In practice, I didn't mind the smaller size, but I did find my finger running off the edge until my muscle memory was rewired. Two software preferences helped make the experience near perfect: turning the tracking speed all the way up and enabling tap-to-click. Once I had those settings tuned, I didn't think much about the trackpad after that. 
 
-(In case you're wondering, Trackpad Notions Per Hour is my only litmus test for this type of the hardware, by the way. And the only passing grade is zero.) 
+(In case you're wondering, Trackpad Notions Per Hour is my only litmus test for this type of hardware, by the way. And the only passing grade is zero.) 
 
 
 ## Hinge

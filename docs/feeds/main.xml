@@ -6,7 +6,44 @@
     <atom:link href="https://audacious.blog/" rel="self" type="application/rss+xml"/>
     <rights>Copyright ©, K.Q. Dreger</rights>
 
-    <lastBuildDate>Sun, 15 Nov 2020 15:00:15 -0500</lastBuildDate>    
+    <lastBuildDate>Mon, 16 Nov 2020 21:22:08 -0500</lastBuildDate>    
+    <item>
+        <author>K.Q. Dreger</author>
+      
+        <title>▲︎ Tuned for the Mac</title>
+        <link>https://audacious.blog/2020/tuned-for-the-mac</link>
+      
+      <pubDate>Mon, 16 Nov 2020 21:22:08 -0500</pubDate>
+      
+      <description>
+        &lt;p&gt;What’s a good word for Mac apps that &lt;em&gt;feel&lt;/em&gt; like good Mac apps?&lt;/p&gt;
+&lt;p&gt;Back in August, Brent Simmons &lt;a href=&#34;https://inessential.com/2020/08/15/desktop_means_web&#34;&gt;wrote about the blurring definitions&lt;/a&gt; between “desktop” and “web” stating “there is no word that means what desktop used to mean — there’s no word for ‘native Mac, Windows, and Linux apps.’ It’s not a concept anymore.”&lt;/p&gt;
+&lt;p&gt;A month and change, Panic’s &lt;a href=&#34;https://panic.com/blog/nova-is-here/&#34;&gt;launched its new code editor, Nova&lt;/a&gt; with the lede, “Nova, our next-generation, fully native, future-focused code editor — only available for macOS — is here.” On the &lt;a href=&#34;https://nova.app/&#34;&gt;marketing site&lt;/a&gt;, you’ll read the headline, “Can a native Mac code editor really be that much better?”&lt;/p&gt;
+&lt;p&gt;On the same day, Sketch wrote a 10-year anniversary treatise (couched in an absolute tour de force of web design) titled “&lt;a href=&#34;https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/&#34;&gt;Part of your world: Why we’re proud to build a truly native Mac app&lt;/a&gt;”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Native apps bring so many benefits — from personalization and performance to familiarity and flexibility. And while we’re always working hard to make Cloud an amazing space to collaborate, we still believe the Mac is the perfect place to let your ideas and imagination flourish.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Following Sketch&amp;rsquo;s post, we find &lt;a href=&#34;https://daringfireball.net/2020/11/sketch_mac_app_mac_apps&#34;&gt;John Gruber of &lt;em&gt;Daring Fireball&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ve taken to calling these apps &amp;ldquo;&lt;a href=&#34;https://daringfireball.net/search/mac-assed+mac+apps&#34;&gt;Mac-assed Mac apps&lt;/a&gt;&amp;rdquo; recently, but we need a better term. &lt;em&gt;Je ne sais quoi&lt;/em&gt; means &amp;ldquo;a quality that cannot be described or named easily&amp;rdquo; &amp;ndash; it&amp;rsquo;s no surprise it&amp;rsquo;s hard to categorize these apps with a term. Panic just introduced their splendid new programming editor &lt;a href=&#34;https://panic.com/blog/nova-is-here/&#34;&gt;Nova&lt;/a&gt; as &lt;a href=&#34;https://twitter.com/panic/status/1306292904063766529?lang=en&#34;&gt;&amp;ldquo;an extremely Mac-app Mac app&amp;rdquo;&lt;/a&gt;, which captures the sentiment (and sound) of &amp;ldquo;Mac-assed Mac app&amp;rdquo; in a purely joyous way. I like that. Whatever we call them, they&amp;rsquo;re worth embracing and celebrating, and Sketch sure as hell is one of them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Finally, and just to round things out, here’s C.S. Lewis in his 1940 book &lt;em&gt;The Problem of Pain&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You may have noticed that the books you really love are bound together by a secret thread. You know very well what is the common quality that makes you love them, though you cannot put it into words: but most of your friends do not see it at all, and often wonder why, liking this, you should also like that.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So there’s something here. Something exhibited by certain Mac apps but not others. A Mac-ness. What do we call it?&lt;/p&gt;
+&lt;p&gt;For a while, I’ve quietly referred to these apps as “higgy.” As in they closely follow &lt;a href=&#34;https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/&#34;&gt;Apple&amp;rsquo;s HIG&lt;/a&gt; (Human Interface Guidelines) for patterns of design and interaction. But while &amp;ldquo;higgy&amp;rdquo; is a fun word to say it&amp;rsquo;s a terrible word for marketing and writing. Nova, a higgy app for the Mac. Pass.&lt;/p&gt;
+&lt;p&gt;But turning it over in my mind the past few weeks, I keep coming back to “tuned.”&lt;/p&gt;
+&lt;p&gt;“Nova, tuned for the Mac.”&lt;/p&gt;
+&lt;p&gt;I like “tuned” for two reasons.&lt;/p&gt;
+&lt;p&gt;First, although “tuned” is primarily associated with musical qualities—side note: I don’t think that’s a bad thing given the Mac’s close association with creativity and the arts—the lesser-used definitions speak to &amp;ldquo;agreement or sense of harmony&amp;rdquo; or &amp;ldquo;to adjust for proper functioning&amp;rdquo;. To “bring into harmony with MacOS” feels very close to me.&lt;/p&gt;
+&lt;p&gt;Second, it’s not about “native” and whether the app is pure Swift/Objective-C. Who cares? It’s about the feel of the thing. Can I rearrange sidebar items? Do disclosure triangles reflect the visibility of the disclosable content? Will common keyboard shortcuts work as expected? Is there consideration given to the software’s usage of my memory, CPU, and energy?&lt;/p&gt;
+&lt;p&gt;Or, simply: is it tuned for the Mac?&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
         <author>K.Q. Dreger</author>
       
@@ -728,37 +765,6 @@
 
         
           &lt;div&gt;&lt;a title=&#34;Permanent link for Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone&#34; href=&#39;https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
-
-        
-      </description>
-    </item>
-    
-    <item>
-        <author>K.Q. Dreger</author>
-       
-        <title>Netflix Says ‘Fortnite’ is a Bigger Competitor Than HBO or Hulu</title>
-        <link>https://www.polygon.com/2019/1/17/18187400/netflix-vs-fortnite-hbo-hulu-competition</link>
-      
-      <pubDate>Tue, 22 Jan 2019 22:51:32 -0500</pubDate>
-      
-      <description>
-        &lt;p&gt;Matt Patches, &lt;em&gt;Polygon&lt;/em&gt;, reporting on Netflix&amp;rsquo;s latest quarterly earnings report:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[&amp;hellip;] Netflix estimated that it commands 10 percent of television screen time in the U.S., and slightly less than that for total mobile screen time. In other countries, the percentages are lower due to &amp;ldquo;lower penetration of our service.&amp;rdquo; The reason, Netflix said, isn&amp;rsquo;t because of obvious streaming competition, but of online platforms and video games.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;We compete with (and lose to) &lt;a href=&#34;https://www.polygon.com/game/fortnite/2417&#34;&gt;&lt;em&gt;Fortnite&lt;/em&gt;&lt;/a&gt; more than HBO,&amp;rdquo; the report indicated. &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;By the end of 2018, Netflix claimed nearly 139 million paying memberships worldwide. Meanwhile, in November 2018, Epic reported that its blockbuster battle royale game commanded &lt;a href=&#34;https://www.bloomberg.com/news/articles/2018-11-26/fortnite-now-has-200-million-players-up-60-from-the-last-count&#34;&gt;upwards of 200 million&lt;/a&gt; registered users. In its quarterly report, Netflix made clear that &amp;ldquo;consumer screen time&amp;rdquo; is its most valuable metric, and that &lt;em&gt;Fortnite&lt;/em&gt; — just one of endless options for plugged-in audiences &amp;ndash; offers the stiffest competition.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;That &lt;em&gt;Fortnite&lt;/em&gt; impacts Netflix more than HBO should be a clear indicator as to why Netflix expects to &lt;a href=&#34;https://variety.com/2019/digital/news/netflix-content-spending-2019-15-billion-1203112090/&#34;&gt;spend almost $15 billion on content this year&lt;/a&gt;. Netflix isn&amp;rsquo;t competing with HBO because HBO also makes content, Netflix competes with HBO because when you&amp;rsquo;re watching HBO you&amp;rsquo;re not watching Netflix. Sure, you could be paying for both, but once the attention scales tip too far in one direction, people begin to wonder if they really need that extra monthly subscription. Where attention goes, money follows.&lt;/p&gt;
-&lt;p&gt;This is why features like &lt;a href=&#34;https://support.apple.com/en-us/HT208982&#34;&gt;Screen Time on iOS&lt;/a&gt; are so interesting to me&amp;ndash;they provide cold, hard numbers as to where I&amp;rsquo;m actually spending my time. Like Mint or &lt;a href=&#34;https://www.youneedabudget.com&#34;&gt;YNAB&lt;/a&gt; for your minutes. An attention budget.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s not just screen things, either. Netflix shows, Facebook status updates, &lt;em&gt;Fortnite&lt;/em&gt; matches, wood carving, genoise sponge cake baking are all&amp;ndash;in some manner&amp;ndash;competing for your attention. &lt;a href=&#34;https://en.wikipedia.org/wiki/Attention_economy&#34;&gt;The attention economy&lt;/a&gt; posits that as content becomes increasingly available, attention (read: time) becomes a scarce commodity. If 200 million people started regularly baking genoise in the evenings instead of watching Netflix, you can bet we&amp;rsquo;d hear Reed Hastings say &amp;ldquo;sponge cakes&amp;rdquo; in the next quarterly report.&lt;/p&gt;
-&lt;p&gt;(Once you start thinking about the digital services and apps we use as primarily chasing your attention instead of your dollars, it becomes easier to see how addictive and downright manipulating some of these user interfaces have become. But that’s for another post.)&lt;/p&gt;
-
-        
-          &lt;div&gt;&lt;a title=&#34;Permanent link for Netflix Says ‘Fortnite’ is a Bigger Competitor Than HBO or Hulu&#34; href=&#39;https://audacious.blog/2019/netflix-vs-fortnite&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
 
         
       </description>

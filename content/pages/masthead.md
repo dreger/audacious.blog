@@ -4,15 +4,18 @@ title: Masthead
 
 Audacious is written, edited, and produced by [K.Q. Dreger](https://dreger.me). 
 
+
 This site is run out of my own pocket and in my spare time. What it lacks in regularity is hopefully made up for in quality. 
 
-I aim to write so you don't need to skim. Rigorous editing is a cornerstone of this website, and I keep an [in-house style guide](/style-guide), which you’re welcome to read and remix.
+I aim to write so you don't need to skim. There's an [in-house style guide](/style-guide) that you’re welcome to read and remix.
 
+Published from Northeast Ohio. Thank you for reading. ✌️
 
-Published from Northeast Ohio. Thanks for reading. ✌️
+My face: 
+
+<p><img class="masthead__pic" src="/images/kqd.png"></p>
 
 <small>(Also, “Kyle” is fine—I just sign my name KQ. My favorite authors all went by first-initial-middle-initial-last-name, and I really like that style.)</small>
-
 
 
 ## Get in touch 
@@ -21,7 +24,7 @@ Published from Northeast Ohio. Thanks for reading. ✌️
 <!-- 
 I look like this: 
 
-![my face](/images/kqd.png) 
+
 
 ## Your host, briefly
 
@@ -57,7 +60,7 @@ Web traffic monitored via [Clicky](https://clicky.com).
 
 ## Other writers worth reading 
 
-I read pretty much everything these folks put out. I update this list every couple of months, so check back from time to time. (Updated Dec. 2019)
+I read pretty much everything these folks put out. I update this list every couple of months, so check back from time to time. (Updated Nov. 2020)
 
 - [Becky Hansmeyer](https://beckyhansmeyer.com/)
 - [Erica Sadun](https://ericasadun.com/)
@@ -66,7 +69,6 @@ I read pretty much everything these folks put out. I update this list every coup
 - [Susan J. Fowler](https://www.susanjfowler.com/)
 - [Una Kravets](https://una.im/archive/#💁)
 - _BirchTree_, [Matt Birchler](https://birchtree.me)
-- _Dispatches on Therapy_, [Holbemn](http://holbemn.xyz)
 - _Idle Words_, [Maciej Cegłowski](http://idlewords.com)
 - _Inessential_, [Brent Simmons](http://inessential.com)
 - _Initial Charge_, [Michael Rockwell](http://initialcharge.net)

@@ -131,7 +131,9 @@ em img {
   display: block;
 }
 
-small { font-size: .875rem; }
+small { 
+  font-size: .875rem; 
+}
 
 main {
   max-width: var(--max-width);
@@ -293,6 +295,13 @@ main {
 }
 
 .faded { color: var(--faded-text); }
+
+.masthead__pic {
+  max-width: 300px; 
+  &:hover {
+    transform: rotate(-5deg); 
+  }
+}
 
 .card {
   border-radius: 4px;

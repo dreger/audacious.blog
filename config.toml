@@ -1,7 +1,6 @@
 baseURL = "https://audacious.blog/"
 languageCode = "en-us"
 
-
 title = "Audacious"
 uglyurls = false
 publishDir = "docs"
@@ -10,6 +9,11 @@ disableKinds = ['RSS', 'taxonomy', 'taxonomyTerm']
 	notes = "/:year/:filename"
 	essays = "/:year/:filename"
 	pages = "/:filename"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [sitemap]
   changefreq = 'monthly'

@@ -339,7 +339,7 @@
       
       <description>
         &lt;p&gt;I was on a run and thinking about Maslow’s hierarchy of needs and how a force ranked list of needs could apply to product teams. Here’s my attempt. Let’s walk through the levels:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;!-- [![pyramid of needs](https://dreger.me/assets/images/pyramid.jpg)](/assets/images/pyramid.jpg) --&gt;
 &lt;h2 id=&#34;level-one-talk-with-your-customers-daily&#34;&gt;Level one: talk with your customers daily.&lt;/h2&gt;
 &lt;p&gt;You simply won’t have enough information to make good product decisions if you’re not talking with your customers every day. Call them. Email them. Ask them what they like, what they don’t like, what they wish your product could do, where they’re indifferent. Would they recommend your product to someone else? Who? Why not?&lt;/p&gt;
 &lt;h2 id=&#34;level-two-build-and-share-prototypes&#34;&gt;Level two: build and share prototypes.&lt;/h2&gt;

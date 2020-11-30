@@ -30,8 +30,8 @@
       <p><a class="post__meta" href='{{ strings.TrimSuffix "/" .Permalink }}'>{{ .PublishDate.Format "Monday, 2 January 2006" }}</a></p>
 
       <div class="pagination">  
-        {{ if .PrevPage }}<p><strong>Older</strong><br><a href='{{ strings.TrimSuffix "/" .PrevPage.Permalink }}'>{{.PrevPage.Title | title}}</a></p>{{ end }}
-        {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title | title}}</a></div>{{ end }}
+        {{ if .PrevPage }}<p><strong>Older</strong><br><a href='{{ strings.TrimSuffix "/" .PrevPage.Permalink }}'>{{.PrevPage.Title }}</a></p>{{ end }}
+        {{ if .NextPage }}<div><strong>Newer</strong><br><a href='{{ strings.TrimSuffix "/" .NextPage.Permalink }}'>{{.NextPage.Title }}</a></div>{{ end }}
       </div>
     {{ end }}
 {{ end }}

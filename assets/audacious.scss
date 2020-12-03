@@ -176,24 +176,26 @@ main {
 
 .logo {
   // display: none; 
-  // background-size: 100% 100%;
-  // background-repeat: no-repeat;
-  // background-position: left top;
-  // background-image: url(/images/audacious.svg);
-  // background-image: url(/images/logo2.svg);
-  // width: 180px;
-  // height: 40px;
-  // padding: .5rem 0;
-  // border-radius: 4px; 
-  // text-indent: -99999px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-image: url(/images/audacious.svg);
+  background-image: url(/images/logo.svg); 
+  width: 120px;
+  padding: .5rem 0;
+  text-indent: -99999px;
   
   margin: 0;
   border: 0;
   text-decoration: none; 
-  transition: opacity .2s ease;
+  // transition: opacity .2s ease;
   font-weight: var(--font-weight-regular); 
   text-transform: uppercase; 
   letter-spacing: .01em; 
+  border-bottom: solid 2px transparent; 
+  &:hover {
+    border-color: var(--faded-line); 
+  }
 }
 
 

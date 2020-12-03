@@ -13,7 +13,7 @@ Published from Northeast Ohio. Thank you for reading. ✌️
 
 My face: 
 
-<p><img class="masthead__pic" src="/images/kqd.png"></p>
+<p><img class="masthead__pic" src="/images/kqd.jpg"></p>
 
 <small>(Also, “Kyle” is fine—I just sign my name KQ. My favorite authors all went by first-initial-middle-initial-last-name, and I really like that style.)</small>
 

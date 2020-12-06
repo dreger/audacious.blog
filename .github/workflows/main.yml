@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Pull Hugo
-        run: apt-get install hugo
+        run: sudo apt-get install hugo
         
       - name: Build site
         run: hugo $GITHUB_WORKSPACE

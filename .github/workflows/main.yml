@@ -30,7 +30,7 @@ jobs:
         run: sudo apt-get install hugo
         
       - name: Build site
-        run: hugo $GITHUB_WORKSPACE
+        run: cd $GITHUB_WORKSPACE && hugo -D
 
       # Runs a set of commands using the runners shell
 #       - name: Build site

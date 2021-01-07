@@ -9,11 +9,9 @@ This site is run out of my own pocket and in my spare time. What it lacks in reg
 
 I aim to write so you don't need to skim. There's an [in-house style guide](/style-guide) that you’re welcome to read and remix.
 
-Published from Northeast Ohio. Thank you for reading. ✌️
+Published from Northeast Ohio. Thank you for reading. ✌️ 
 
-My face: 
-
-<p><img class="masthead__pic" src="/images/kqd.jpg"></p>
+<p><img src="/images/kqd.jpg"></p>
 
 <small>(Also, “Kyle” is fine—I just sign my name KQ. My favorite authors all went by first-initial-middle-initial-last-name, and I really like that style.)</small>
 

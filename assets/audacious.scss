@@ -298,13 +298,6 @@ main {
 
 .faded { color: var(--faded-text); }
 
-.masthead__pic {
-  max-width: 300px; 
-  &:hover {
-    transform: rotate(-5deg); 
-  }
-}
-
 .card {
   border-radius: 4px;
   background-color: var(--bg);

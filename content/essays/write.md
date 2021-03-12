@@ -5,7 +5,7 @@ date: 2021-03-11T19:55:42-05:00
 
 Writing is hard. It takes time. And a lot of that time is spent rewriting what you've already written. 
  
-But, good writing is easier to pull off than most people think. I think most people are only a few small changes away from being better writers. 
+But good writing is easier to pull off than most people think. I think most people are only a few small changes away from being better writers. 
 
 My advice? Write sentences, not too many, mostly active. 
 

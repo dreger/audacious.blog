@@ -10,7 +10,7 @@ Back in August, Brent Simmons [wrote about the blurring definitions][bs] between
 
 [bs]: https://inessential.com/2020/08/15/desktop_means_web
 
-A month and change, Panic’s [launched its new code editor, Nova][nova] with the lede, “Nova, our next-generation, fully native, future-focused code editor — only available for macOS — is here.” On the [marketing site][nova-marketing], you’ll read the headline, “Can a native Mac code editor really be that much better?” 
+A month and change later, Panic [launched its new code editor, Nova][nova] with the lede, “Nova, our next-generation, fully native, future-focused code editor — only available for macOS — is here.” On the [marketing site][nova-marketing], you’ll read the headline, “Can a native Mac code editor really be that much better?” 
 
 [nova]: https://panic.com/blog/nova-is-here/
 [nova-marketing]: https://nova.app/

@@ -6,7 +6,39 @@
     <atom:link href="https://audacious.blog/" rel="self" type="application/rss+xml"/>
     <rights>Copyright ©, K.Q. Dreger</rights>
 
-    <lastBuildDate>Mon, 16 Nov 2020 21:22:08 -0500</lastBuildDate>    
+    <lastBuildDate>Thu, 11 Mar 2021 19:55:42 -0500</lastBuildDate>    
+    <item>
+        <author>K.Q. Dreger</author>
+      
+        <title>▲︎ Write Sentences, Not Too Many, Mostly Active</title>
+        <link>https://audacious.blog/2021/write</link>
+      
+      <pubDate>Thu, 11 Mar 2021 19:55:42 -0500</pubDate>
+      
+      <description>
+        &lt;p&gt;Writing is hard. It takes time. And a lot of that time is spent rewriting what you&amp;rsquo;ve already written.&lt;/p&gt;
+&lt;p&gt;But, good writing is easier to pull off than most people think. I think most people are only a few small changes away from being better writers.&lt;/p&gt;
+&lt;p&gt;My advice? Write sentences, not too many, mostly active.&lt;/p&gt;
+&lt;h2 id=&#34;write-sentences&#34;&gt;Write sentences&lt;/h2&gt;
+&lt;p&gt;The only way to beat a blank page is to fill it. Write a single sentence. Then another. Each sentence should stand on its own. If a sentence tries to say two things, make it two sentences.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t edit yet. Step one is to get words out of your brain and into the world. Besides, you can&amp;rsquo;t rewrite nothing.&lt;/p&gt;
+&lt;h2 id=&#34;not-too-many&#34;&gt;Not too many&lt;/h2&gt;
+&lt;p&gt;Everyone skims. Most writing has too much writing. There&amp;rsquo;s fluff everywhere.&lt;/p&gt;
+&lt;p&gt;Ask yourself if every sentence is helping move the reader along. If a sentence fails the test, remove it.&lt;/p&gt;
+&lt;h2 id=&#34;mostly-active&#34;&gt;Mostly active&lt;/h2&gt;
+&lt;p&gt;What is an active sentence? Let me show you:&lt;/p&gt;
+&lt;p&gt;Active voice: I&amp;rsquo;m writing a blog post.&lt;/p&gt;
+&lt;p&gt;Passive voice: A blog post is being written.&lt;/p&gt;
+&lt;p&gt;In an active sentence, the subject does the verb. In a passive sentence, the verb is done to the subject.&lt;/p&gt;
+&lt;p&gt;Active sentences have momentum. They gently push the reader through your words. Passive sentences aren&amp;rsquo;t awful. Many wonderful writers use them. But an active voice is the better default.&lt;/p&gt;
+&lt;h2 id=&#34;write&#34;&gt;Write&lt;/h2&gt;
+&lt;p&gt;Above all else, write! Writing is a learned skill. It can be improved with practice. Put sentences on the page, remove the unnecessary ones, and favor an active voice. Do this repeatedly, and you&amp;rsquo;ll end up a better writer.&lt;/p&gt;
+&lt;p&gt;Well, most of the time.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
         <author>K.Q. Dreger</author>
       
@@ -18,7 +50,7 @@
       <description>
         &lt;p&gt;What’s a good word for Mac apps that &lt;em&gt;feel&lt;/em&gt; like good Mac apps?&lt;/p&gt;
 &lt;p&gt;Back in August, Brent Simmons &lt;a href=&#34;https://inessential.com/2020/08/15/desktop_means_web&#34;&gt;wrote about the blurring definitions&lt;/a&gt; between “desktop” and “web” stating “there is no word that means what desktop used to mean — there’s no word for ‘native Mac, Windows, and Linux apps.’ It’s not a concept anymore.”&lt;/p&gt;
-&lt;p&gt;A month and change, Panic’s &lt;a href=&#34;https://panic.com/blog/nova-is-here/&#34;&gt;launched its new code editor, Nova&lt;/a&gt; with the lede, “Nova, our next-generation, fully native, future-focused code editor — only available for macOS — is here.” On the &lt;a href=&#34;https://nova.app/&#34;&gt;marketing site&lt;/a&gt;, you’ll read the headline, “Can a native Mac code editor really be that much better?”&lt;/p&gt;
+&lt;p&gt;A month and change later, Panic &lt;a href=&#34;https://panic.com/blog/nova-is-here/&#34;&gt;launched its new code editor, Nova&lt;/a&gt; with the lede, “Nova, our next-generation, fully native, future-focused code editor — only available for macOS — is here.” On the &lt;a href=&#34;https://nova.app/&#34;&gt;marketing site&lt;/a&gt;, you’ll read the headline, “Can a native Mac code editor really be that much better?”&lt;/p&gt;
 &lt;p&gt;On the same day, Sketch wrote a 10-year anniversary treatise (couched in an absolute tour de force of web design) titled “&lt;a href=&#34;https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/&#34;&gt;Part of your world: Why we’re proud to build a truly native Mac app&lt;/a&gt;”:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Native apps bring so many benefits — from personalization and performance to familiarity and flexibility. And while we’re always working hard to make Cloud an amazing space to collaborate, we still believe the Mac is the perfect place to let your ideas and imagination flourish.&lt;/p&gt;
@@ -746,25 +778,6 @@
 
         
           &lt;div&gt;&lt;a title=&#34;Permanent link for Proposed Changes to Chrome Would Hamper Ad Blockers&#34; href=&#39;https://audacious.blog/2019/chrome-ad-blockers&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
-
-        
-      </description>
-    </item>
-    
-    <item>
-        <author>K.Q. Dreger</author>
-       
-        <title>Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone</title>
-        <link>https://mobile.twitter.com/Twitter/status/1087791357756956680</link>
-      
-      <pubDate>Wed, 23 Jan 2019 19:50:55 -0500</pubDate>
-      
-      <description>
-        &lt;p&gt;Twitter&amp;rsquo;s calling it the &amp;ldquo;new twitter.com&amp;rdquo;, but this update &lt;a href=&#34;https://blog.twitter.com/en_us/topics/product/2017/introducing-twitter-lite.html&#34;&gt;is clearly the lite variant&lt;/a&gt; of their website that mobile users have been using for over a year. Good on them for pushing this out to everyone—I&amp;rsquo;ve found it to be significantly faster and nicer to use than the normal site. It&amp;rsquo;s also (&lt;a href=&#34;https://www.theverge.com/2018/2/16/17021960/twitter-mac-desktop-app-discontinued-support-ending&#34;&gt;sadly&lt;/a&gt;) the best official way to use Twitter on your Mac.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re still seeing the old/current version, you can check out what&amp;rsquo;s coming by going directly to &lt;a href=&#34;https://mobile.twitter.com&#34;&gt;mobile.twitter.com&lt;/a&gt;.&lt;/p&gt;
-
-        
-          &lt;div&gt;&lt;a title=&#34;Permanent link for Twitter Begins Rolling out ‘Lite’ Version of Website to Everyone&#34; href=&#39;https://audacious.blog/2019/twitter-lite-rolls-out-to-everyone&#39;&gt;&amp;nbsp;▲︎&amp;nbsp;&lt;/a&gt;&lt;/div&gt;
 
         
       </description>

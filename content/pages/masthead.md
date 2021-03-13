@@ -47,7 +47,7 @@ Written on an old MacBook Air (with the good keyboard) or iPhone 11 Pro (the sen
 
 Hosted on GitHub Pages, generated with Hugo. 
 
-Headers and body copy set in [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)) by Apple and [Charter](http://practicaltypography.com/charter.html) by Matthew Carter respectively. 
+Headers and body copy set in [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)) by Apple (or whatever your default system sans-serif is). 
 
 *In the past, you might have seen the following (excellent) typefaces: [IBM Plex Serif](https://en.wikipedia.org/wiki/IBM_Plex) by Mike Abbink and Bold Monday; [Whitney](https://www.typography.com/fonts/whitney/overview), [Decimal](https://www.typography.com/fonts/decimal/overview), and [Gotham](https://www.typography.com/fonts/gotham/overview/) by Hoefler &amp; Co.; [Source Serif Pro](https://fonts.adobe.com/fonts/source-serif) by Adobe; [Inter](https://rsms.me/inter/) by Rasmus Andersson, [Concourse](http://practicaltypography.com/concourse.html) by Matthew Butterick; Athelas by Veronika Burian and Jose Scaglione; [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)) by Apple; [Charter](http://practicaltypography.com/charter.html), [Verdana](https://en.wikipedia.org/wiki/Verdana), and [Georgia](https://en.wikipedia.org/wiki/Georgia_(typeface)) by Matthew Carter.*
 

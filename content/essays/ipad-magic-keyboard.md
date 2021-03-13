@@ -10,7 +10,7 @@ And yet, we have a situation where the whole is less than the sum of its parts b
 
 Coming in at $300 (for the 11-inch, small version) it wasn’t worth it to me. But if the iPad is your only device, you may not have any other options. And if you’re like me, material aside, you won’t want to use anything else. 
 
-Smudges, fingerprints. The case is a magnet. There's also an almost imperceptible give between the material and its enclosed frame. After spending a week with this thing—moving between my office, the couch, and my bed—I'm certain this case will look awful in less than a year. Pleasing polyurethane patina is not a thing. 
+Smudges, fingerprints; this case is a magnet. There's also an almost imperceptible give between the material and its enclosed frame. After spending a week with this thing—moving between my office, the couch, and my bed—I'm certain this case will look awful in less than a year. Pleasing polyurethane patina is not a thing. 
 
 Which sucks. Because if the iPad plus Magic Keyboard is supposed to make a play for the hearts of MacBook users, I'm afraid that crowd will be left wanting. The Magic Keyboard polyurethane is the antithesis of my MacBook Pro's aluminum chassis. 
 

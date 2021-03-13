@@ -8,14 +8,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &mdash; {{ .Site.Title }}{{ end }}</title>
   <meta name="author" content="K.Q. Dreger"> 
-  <link rel="apple-touch-icon" sizes="300x300" href="{{ .Site.BaseURL }}/icon.png">
-  <link rel="icon" type="image/png" sizes="300x300" href="{{ .Site.BaseURL }}/icon.png">
+  <link rel="apple-touch-icon" sizes="300x300" href="{{ .Site.BaseURL }}icon.png">
+  <link rel="icon" type="image/png" sizes="300x300" href="{{ .Site.BaseURL }}icon.png">
 
   {{ if .IsHome }}
   <meta name="Description" content="A small column on privacy, design, gaming, and writing. Published from Ohio. Written by K.Q. Dreger.">
   <meta itemprop="description" content="A small column on privacy, design, gaming, and writing. Published from Ohio. Made on a Mac. Written by K.Q. Dreger.">
-  <!-- <meta property="og:image" content="{{ .Site.BaseURL }}/icon.png" /> -->
   {{ end }}
+
+  <meta name="twitter:card" content="summary"><meta name="twitter:image" content="{{ .Site.BaseURL }}icon.png">
 
   {{ if .IsPage }}
   <meta name="Description" content="{{ htmlEscape .Summary | plainify }}...">

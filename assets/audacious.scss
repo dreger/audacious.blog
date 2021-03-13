@@ -27,11 +27,9 @@
   --accent: #0064bc; 
   --accent: #ecc781; //faded gold
   --accent: #ff5722; //faded orange
-  --text-heading: rgba(0,0,0,.9);
-  --text: rgba(0,0,0,.85);
-  --text: #3a4750; 
-  --text-heading: #3a4750; 
-  --faded: #f1f1f1;
+  --text: #282d31; 
+  --text-heading: #282d31; 
+  --faded: #f1f1f1; 
   --faded-line: #e1e1e1;
   --faded-text: #757575;
   --bg: #fafafa;
@@ -43,11 +41,12 @@
   --font: "Decimal A", "Decimal B"; 
   --font-heading: var(--font); 
   --font-heading: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, sans-serif; 
-  --font: Charter, Georgia, serif; //"Decimal A", "Decimal B", Verdana, 
+  --font: var(--font-heading), Charter, Georgia, serif; //"Decimal A", "Decimal B", Verdana, 
   --line-height: 1.35;
+  --line-height: 1.4;
   --max-width: calc(28rem + 8rem);
   --padding: 4rem;
-  --font-size: 16px;
+  --font-size: 18px;
 }
 
 ::selection {
@@ -101,7 +100,7 @@ ol { padding-left: 1.25rem; }
 li { margin-bottom: 1rem; }
 a {
   color: var(--text);
-  border-bottom: solid 2px var(--faded-line);
+  border-bottom: dotted 1px var(--faded-text);
   transition: color .1s ease;
   // text-decoration-thickness: 2px;
   text-decoration: none;
@@ -113,7 +112,13 @@ a:hover {
 }
 
 blockquote {
-  margin-left: 1.5rem;
+  margin-left: 0;
+  border-left: solid 1px var(--faded-text); 
+  padding-left: 1.25rem;
+  & + blockquote {
+    margin-top: -1rem; 
+    padding-top: 1rem;
+  }
 }
 
 hr { margin: 2rem 0; height: 2px; background: var(--faded-line); border: 0; }
@@ -192,9 +197,9 @@ main {
   font-weight: var(--font-weight-regular); 
   text-transform: uppercase; 
   letter-spacing: .01em; 
-  border-bottom: solid 2px transparent; 
+  border-bottom: dotted 1px transparent; 
   &:hover {
-    border-color: var(--faded-line); 
+    border-color: var(--faded-text); 
   }
 }
 
@@ -329,11 +334,23 @@ main {
   }
 }
 
+// @media (prefers-color-scheme: dark) {
+//   :root {
+//     --text: #fafafa; 
+//     --text-heading: #fafafa; 
+//     --faded: #444; 
+//     --faded-line: #777;
+//     --faded-text: #999;
+//     --bg: #333;
+//     --bg-column: #444;
+//   }
+// }
+
 @media (max-width: 700px) {
   :root {
     --padding: 1rem;
     --max-width: 100%;
-      --font-size: 20px; 
+    --font-size: 20px; 
   }
   main {
     margin: 0;
@@ -342,7 +359,8 @@ main {
 }
 
 @media (max-width: 400px) {
-  h1 { font-size: 2rem; 
+  h1 { 
+    font-size: 2rem; 
     hyphens: auto; 
   }
 }
